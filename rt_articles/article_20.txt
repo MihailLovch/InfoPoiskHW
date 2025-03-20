@@ -1,0 +1,330 @@
+
+<!DOCTYPE html>
+<html lang="ru" prefix="og: http://ogp.me/ns#"><head><meta charset="utf-8"/><meta content="36879475773792950F4872586A371571" name="msvalidate.01"><meta content="no" name="apple-mobile-web-app-capable"/><meta content="telephone=yes" name="format-detection"/><meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/><meta content="true" name="HandheldFriendly"/><meta content="width" name="MobileOptimzied"/><meta content="on" http-equiv="cleartype"/><meta content="tabbed" name="navigation"/><title>В Петербурге к 14 годам тюрьмы приговорили женщину, задушившую подушкой дочь — РТ на русском</title><meta content="В Петербурге к 14 годам тюрьмы приговорили женщину, задушившую подушкой дочь - Читайте подробнее на сайте РТ на русском." name="description"><meta content="240228462761886" property="fb:pages"><meta content="GYFQiVoLOXGoiBZb6BPk_PoFj173iKc7_nZ1eG1k-x4" name="google-site-verification"/><meta content="RT на русском" property="og:site_name"><meta content="ru_RU" property="og:locale"><meta content="article" property="og:type"><meta content="В Петербурге к 14 годам тюрьмы приговорили женщину, задушившую подушкой дочь" property="og:title"><meta content="https://russian.rt.com/russia/news/1451705-peterburge-14-let-tyurmy" property="og:url"><meta content="В Санкт-Петербурге суд приговорил к 14 годам тюрьмы Варвару Жеребцову, признанную виновной в убийстве малолетней дочери и оставлении в опасности сына." property="og:description"><meta content="В Петербурге к 14 годам тюрьмы приговорили женщину, задушившую подушкой дочь" name="twitter:title"/><meta content="false" name="spotim:recommended_page"/><meta content="2025-03-20T12:43:20+03:00" name="published_time_telegram"/><meta content="image/jpeg" property="og:image:type"/><meta content="840" property="og:image:width"/><meta content="450" property="og:image:height"/><meta content="https://russian.rt.com/static/blocks/og-img/pl-17.jpg" property="og:image"/><meta content="https://russian.rt.com/static/blocks/og-img/pl-17.jpg" name="twitter:image"/><meta content="7259b709c9950c63" name="yandex-verification"/><meta content="@RT_russian" name="twitter:site"/><meta content="summary_large_image" name="twitter:card"/><meta content="iphone" name="twitter:app:name:iphone"><meta content="iphone" name="twitter:app:id:iphone"/><meta content="url" name="twitter:app:url:iphone"/><meta content="ipad" name="twitter:app:name:ipad"/><meta content="ipad" name="twitter:app:id:ipad"/><meta content="url" name="twitter:app:url:ipad"/><meta content="googleplay" name="twitter:app:name:googleplay"/><meta content="googleplay" name="twitter:app:id:googleplay"/><meta content="googleplay" name="twitter:app:url:googleplay"/><meta content="app-id=649316948, app-argument=russianrtnews://articles/1451705" name="apple-itunes-app"/><meta content="Россия" name="mediator_theme"/><meta content="1451705" name="mediator"/><meta content="2025-03-20T12:43:20+03:00" name="mediator_published_time"/><!-- rev-hash --></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></head><body><div class="layout"><div class="layout__header" id="layout__header"><div class="header js-header" id="header"><div class="header__section header__section_gray"><div class="header__content"><div class="header__social"><div class="socials"><ul class="socials__row"><li class="socials__item"><a class="socials__link socials__link_vkontakte" href="//vk.com/rt_russian" target="_blank">
+                    RT на русском Вконтакте
+                </a></li><li class="socials__item"><a class="socials__link socials__link_xtwitter" href="//twitter.com/RT_russian" target="_blank">
+                    Twitter RT Russian
+                </a></li><li class="socials__item"><a class="socials__link socials__link_telegram" href="//ttttt.me/rt_russian" target="_blank">
+                    Канал RT на Telegram.me
+                </a></li><li class="socials__item"><a class="socials__link socials__link_rutube" href="//rutube.ru/u/rtrussian/" target="_blank">
+                    RT на русском в rutube
+                </a></li><li class="socials__item"><a class="socials__link socials__link_odnoklassniki" href="//ok.ru/rtrussian" target="_blank">
+                    RT на русском группа на Одноклассники.ru
+                </a></li><li class="socials__item"><a class="socials__link socials__link_yandex-zen" href="//dzen.ru/russian.rt.com" target="_blank">
+                    RT на русском в Дзен
+                </a></li><li class="socials__item"><a class="socials__link socials__link_rss" href="/rss" target="_blank">
+                    rss
+                </a></li><li class="socials__item"><a class="socials__link socials__link_tiktok" href="//www.tiktok.com/@russian_rt" target="_blank">
+                    RT на русском в TikTok
+                </a></li></ul></div></div><div class="header__langs"><div class="langs"><div class="nav langs__nav"><ul class="nav__row nav__row_langs"><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//swentr.site/" target="_blank">
+
+                            ENG
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//de.rt.com/" target="_blank">
+
+                            DE
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//francais.rt.com/" target="_blank">
+
+                            FR
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//arabic.rt.com/" target="_blank">
+
+                            العربية
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//actualidad.rt.com/" target="_blank">
+
+                            ESP
+
+                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//rt.rs/" target="_blank">
+
+                            RS
+
+                        </a></li></ul></div></div></div><div class="header__media-projects"><div class="nav nav_media-projects"><ul class="nav__row nav__row_media-projects"><li class="nav__row-item nav__row-item_media-projects"><a class="nav__link nav__link_media-projects link" href="//doc.rt.com/" target="_blank">
+
+                            RTД
+
+                        </a></li></ul></div></div><div class="clears-mh"></div></div></div><div class="header__section header__section_border-bottom_gray"><div class="header__content"><div class="header__logo"><a class="logo" href="/"><span class="logo__image">RT</span><span class="logo__text">На русском</span></a></div><div class="header__trend-donbass"><a aria-label="Семья - Россия" class="header__trend-donbass_bgi" href="/russia/video/1425475-amerikanskie-hristiane-vybrali-dlya-zhizni-moskvu"></a></div><div class="header__seach-form"><form action="/search" class="search header__search-form_js" name="search"><div class="search__wrapper search__submit-top"><input class="search__submit" id="search__submit-top" type="checkbox" value="Поиск"/><label class="search__submit-label search_label_js-top" for="search__submit-top"></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск"/><div class="search__text"><input id="search_input_field-top" maxlength="100" name="q" type="text" value=""/></div></div></form></div><ul class="mobile-nav"><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_search">Search</a></li><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_menu">Menu mobile</a></li></ul></div></div><div class="header__section" id="header-nav"><div class="header__content"><div class="nav nav_header"><ul class="nav__row nav__row_center"><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/news">
+
+                            Новости
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/world">
+
+                            Мир
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header nav__link_header_active link" href="/russia">
+
+                            Россия
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/ussr">
+
+                            Бывший СССР
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/business">
+
+                            Экономика
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/sport">
+
+                            Спорт
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/science">
+
+                            Наука
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/nopolitics">
+
+                            Без политики
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/opinion">
+
+                            Мнения
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/inotv" target="_blank">
+
+                            ИноТВ
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/foto">
+
+                            Фото
+
+                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/video">
+
+                            Видео
+
+                        </a></li></ul></div></div></div><div class="header__section header__trend-donbass_section"><a href="/trend/355231-donbass">Спецоперация на Украине</a></div></div></div><div class="layout__popular-trends"><div class="layout__control-width"><div class="nav nav_popular-trends"><ul class="nav__row nav__row_popular-trends"><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="58357206c46188dc658b45ad" href="/trend/334937-politika">
+                            Политика
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="58358a24c4618866648b45cf" href="/trend/334955-proisshestviya">
+                            Происшествия
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="583585fac461889d658b484c" href="/trend/334939-obschestvo">
+                            Общество
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="613b8ee102e8bd59781647ab" href="/trend/905563-soyuznoe-gosudarstvo">
+                            Союзное государство
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="58358805c46188db658b4858" href="/trend/334946-armiya">
+                            Армия
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5cdd8f2718356130188b456d" href="/trend/631759-regiony">
+                            Регионы
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5af031dc18356126508b457a" href="/trend/510304-ne-odin-na-odin">
+                            Не один на один
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5d9c816eae5ac94e162e7789" href="/trend/675606-nezabytye-istorii">
+                            Незабытые истории
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5c1b40bd183561c7218b45bc" href="/trend/585226-rassledovaniya-rt">
+                            Расследования RT
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5835895ac4618866648b45ae" href="/trend/334950-religiya">
+                            Религия
+                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="583586e1c461889f658b4897" href="/trend/334942-pravo">
+                            Право
+                        </a></li></ul></div></div></div><div class="layout__wrapper layout__wrapper_article-page"><div class="layout__breaking"></div><div class="layout__banners rows__bottom"><div id="billboard" style="max-width: 1240px; margin: 0 auto; display: table;"></div></div><div class="layout__content"><div class="layout__rows"><div class="rows rows_article-page"><div class="rows__column rows__column_article-page_left"><div class="column"><div class="flex-news-block"><div class="column__row"><div class="article article_article-page"><h1 class="article__heading article__heading_article-page">В Петербурге к 14 годам тюрьмы приговорили женщину, задушившую подушкой дочь</h1><div class="article__date-autor-shortcode article__date-author-shortcode_article-page"><div class="article__short-url-block"><div class="short-url article__short-url"><a class="short-url__link" href="https://ru.rt.com/v455">Короткая ссылка</a></div></div><div class="article__date article__date_article-page"><time class="date" datetime="2025-03-20 12:43">
+		20 марта 2025, 12:43
+	</time></div><div class="article__label"></div></div><div class="article__share article__share_article-page"><div class="social-container" data-buttons="vk, ok, xtwitter, telegram" data-counters=""></div></div><div class="article__summary article__summary_article-page js-mediator-article">В Санкт-Петербурге суд приговорил к 14 годам тюрьмы Варвару Жеребцову, признанную виновной в убийстве малолетней дочери и оставлении в опасности сына.</div><div class="article__text article__text_article-page js-mediator-article"><p>Об этом сообщается в официальном <a href="https://t.me/procspb/11668">Telegram</a>-канале городской прокуратуры.</p><p>«Утром 18 января 2024 года подсудимая в одной из квартир в д. 18, корп. 2 стр. 1 на ул. Тихоокеанской в п. Парголово в Санкт-Петербурге на почве внезапно возникшей неприязни задушила подушкой малолетнюю дочь», — говорится в сообщении.</p><p>Отмечается, что в этот же день женщина уехала в гости, оставив в квартире сына, которому ещё не исполнилось двух лет, без присмотра, еды и воды. </p><p>«Домой она вернулась 20 января и, чтобы скрыть преступление, сообщила в правоохранительные органы об обнаружении тела дочери, которую ранее якобы оставляла со знакомой», — заявили в прокуратуре.</p><p>Данная версия была опровергнута.</p></div><div class="error-on-page"><a class="error-on-page__link" id="error-on-page-link">Ошибка в тексте?</a> Выделите её и нажмите «Ctrl + Enter»</div><div class="article__facebook article__facebook_article-page_news"></div><div class="follows-channel follows-channel_top-middle follows-channel_djen"><div class="follows-channel__content">Подписывайтесь на наш канал в <a href="https://dzen.ru/russian.rt.com" onclick="ga('send', 'event', 'banner', 'click', 'Яндекс.Дзен');" target="_blank">Дзен</a></div></div><div class="article__tags-trends article__tags-trends_article-page tags-trends"><div class="tags-trends__wrapper"><a class="tags-trends__link link link_underline_color" href="/tag/v-rossii" rel="tag">
+                                В России
+                            </a><a class="tags-trends__link link link_underline_color" href="/tag/deti" rel="tag">
+                                Дети
+                            </a><a class="tags-trends__link link link_underline_color" href="/tag/novosti-rossii" rel="tag">
+                                Новости России
+                            </a><a class="tags-trends__link link link_underline_color" href="/tag/prokuratura" rel="tag">
+                                Прокуратура
+                            </a><a class="tags-trends__link link link_underline_color" href="/tag/sanktpeterburg" rel="tag">
+                                Санкт-Петербург
+                            </a></div></div></div></div><div id="page_in"><div id="inpage"></div></div><div id="first_b"></div><div class="column__row"><div class="rt--partner-block rt--partner--smi2" id="unit_90702"><a href="http://smi2.ru/">Новости smi2.ru</a></div></div><div class="column__row"><div class="smi24__informer smi24__auto" data-smi-blockid="17123"></div><div class="smi24__informer smi24__auto" data-smi-blockid="26790"></div></div><div class="column__row"><!--—head ----><!--body --><!-- Sparrow --><div class="sparrow-banner" style=" 
+    padding: 10px;
+    background-color: #fff;
+    margin: 15px 0;
+"></div><style>
+    @media (min-width: 865px) {
+        .sparrow-banner {
+            display: none;
+        }
+    }
+</style><!-- /Sparrow --></div><div class="column__row"><div id="infox_22316"></div></div><div class="column__row"><div class="flex-news-block"><div class="today-media today-media_article" id="today-media-article"><strong class="today-media__heading today-media__heading_article">Сегодня в СМИ</strong><div class="today-media__content today-media__content_article" id="mediametrics"></div></div></div></div><div class="column__row column__row_plista"><div id="wd"></div></div><div id="b_comment"></div></div><div class="comments"><div class="comments__wrapper"><div class="tolstoycomments-feed lazy" data-lazy-function="lazy-comments"></div></div></div><style type="text/css">
+          .CommentsAlert {
+            background: #FFF;
+            padding: 12px;
+            width: 100%;
+            margin-bottom: 20px;
+            font-size: 16px;
+            box-sizing: border-box;
+            border-radius: 6px;
+          }
+          .comments__wrapper .button {
+            text-align: center;
+          }
+        </style><style>
+                                #adhesion>div {
+                                    margin: 4% auto;
+                                }
+                            </style><div id="adhesion"></div></div></div><div class="rows__column rows__column_article-page_right"><div class="column"><div class="column__content column__content_article-page_right"><div class="column__row column__row_article-page_right column__row_article-page_right-1"><ul class="tabs"><li class="tabs__item tabs__item_active tabs__item_1 tabs__item_right">
+            Лента новостей
+        </li><li class="tabs__item tabs__item_2 tabs__item_right">
+            Картина дня
+        </li></ul><div class="tabs__content tabs__content_active tabs__content_1"><div class="listing listing_short-news"><div class="listing__content listing__content_short-news"><ul class="listing__rows listing__rows_short-news"><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news"><div class="card__date card__date_short-news">
+
+      
+              12:58
+      
+    </div><div class="card__heading card__heading_short-news"><span class="card__informal card__informal_exclusive card__informal_short-news">Эксклюзив RT</span><a class="link link_color" href="/science/news/1451695-virusolog-lihoradka-oropush-opasnost">
+        Вирусолог Карпова: без драматического развития болезнь Оропуш проходит за неделю
+      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news card_not-cover"><div class="card__date card__date_short-news card__date_not-cover">
+
+      
+              12:57
+      
+    </div><div class="card__heading card__heading_short-news card__heading_not-cover"><a class="link link_color" href="/world/news/1451720-kreml-evropa-partiya-voiny">
+        В Кремле заявили о превращении Европы в «партию войны»
+      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news card_not-cover"><div class="card__date card__date_short-news card__date_not-cover">
+
+      
+              12:53
+      
+    </div><div class="card__heading card__heading_short-news card__heading_not-cover"><a class="link link_color" href="/world/news/1451715-moskva-gotovnost-peregovory">
+        Песков: Москва не получала сигналов от Брюсселя о готовности начать переговоры
+      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news card_not-cover"><div class="card__date card__date_short-news card__date_not-cover">
+
+      
+              12:53
+      
+    </div><div class="card__heading card__heading_short-news card__heading_not-cover card__heading_not-trends"><a class="link link_color" href="/world/news/1451702-vengriya-tramp-es-protivnik">
+        В Венгрии заявили, что Трамп считает ЕС политическим противником
+      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news"><div class="card__date card__date_short-news">
+
+      
+              12:49
+      
+    </div><div class="card__heading card__heading_short-news"><a class="link link_color" href="/world/news/1451713-peskov-putin-tramp-obsudili">
+        Песков: Путин и Трамп обсудили, кто мог бы представить страны на переговорах
+      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news"><div class="card__date card__date_short-news">
+
+      
+              12:47
+      
+    </div><div class="card__heading card__heading_short-news"><span class="card__informal card__informal_exclusive card__informal_short-news">Эксклюзив RT</span><a class="link link_color" href="/russia/news/1451694-dietolog-myaso-alternativa">
+        Диетолог Соломатина назвала альтернативу мясным блюдам в Великий пост
+      </a></div></div></div></li></ul><div class="smi24__informer smi24__auto" data-smi-blockid="30000"></div><div class="listing__button listing__button_short-news" data-href="/listing/type.News.tag.novosty-glavnoe/prepare/short-news/6/1"><div class="button"><a class="button__item link link_color" href="/news">
+            Все новости
+        </a></div></div></div></div></div><div class="tabs__content tabs__content_2"><div class="listing listing_picture-of-day"><div class="listing__content listing__content_picture-of-day"><ul class="listing__rows listing__rows_picture-of-day"><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67daa4b402e8bd6ae217de6e.jpg)"><a class="cover__link link cover__link_media" href="/russia/article/1451191-mvd-pomosch-deti-kazahstan-podmoskove-grazhdanstvo-rf"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/russia/article/1451191-mvd-pomosch-deti-kazahstan-podmoskove-grazhdanstvo-rf">
+        «Не верю своему счастью»: МВД помогло матери троих детей из Подмосковья подать заявление на гражданство РФ
+      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/russia/article/1451191-mvd-pomosch-deti-kazahstan-podmoskove-grazhdanstvo-rf#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451191"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67da785fae5ac9322747fb1f.jpg)"><a class="cover__link link cover__link_media" href="/science/article/1451083-den-schastya-psihologiya-istoriya"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/science/article/1451083-den-schastya-psihologiya-istoriya">
+        Коктейль гормонов или психологическое благополучие: эксперты — о счастье и как повысить его уровень
+      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/science/article/1451083-den-schastya-psihologiya-istoriya#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451083"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67cab18502e8bd608c2e400e.jpg)"><a class="cover__link link cover__link_media" href="/science/foto/726958-terakt-tokiiskoe-metro"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/science/foto/726958-terakt-tokiiskoe-metro">
+        «Чтобы подобное никогда не повторилось»: 30 лет со дня теракта в токийском метро
+      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/science/foto/726958-terakt-tokiiskoe-metro#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___726958"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67dbb41302e8bd3e2c207a11.jpg)"><a class="cover__link link cover__link_media" href="/russia/article/1451591-bpla-ataka-saratovskaya-oblast"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/russia/article/1451591-bpla-ataka-saratovskaya-oblast">
+        Пострадали больница, школа, детские сады, десятки домов: за ночь над Россией сбито 132 украинских БПЛА
+      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/russia/article/1451591-bpla-ataka-saratovskaya-oblast#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451591"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67daaa10ae5ac962372cf256.jpg)"><a class="cover__link link cover__link_media" href="/russia/article/1451180-pensionery-okkupaciya-prestupleniya-vsu-kurskaya-oblast"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><span class="card__informal card__informal_exclusive card__informal_picture-of-day">Эксклюзив RT</span><a class="link link_color" href="/russia/article/1451180-pensionery-okkupaciya-prestupleniya-vsu-kurskaya-oblast">
+        «Это был настоящий ад»: пенсионеры из курского села Казачья Локня рассказали RT о преступлениях ВСУ и жизни в оккупации
+      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/russia/article/1451180-pensionery-okkupaciya-prestupleniya-vsu-kurskaya-oblast#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451180"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67db6e6c02e8bd45b97f17f6.jpg)"><a class="cover__link link cover__link_media" href="/sport/article/1451290-regulyarka-intrigi-khl-ska-livo-lokomotiv"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/sport/article/1451290-regulyarka-intrigi-khl-ska-livo-lokomotiv">
+        Соперник для СКА, поддавки «Спартака» и ЦСКА и погоня Ливо за рекордом: какие интриги таит концовка регулярки КХЛ
+      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/sport/article/1451290-regulyarka-intrigi-khl-ska-livo-lokomotiv#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451290"></span></a></div></div></div></li></ul></div></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-2"><div class="hide--partner--block smi2adblock-right smi2adblock-right_article-page" id="smi2adblock-right"><div id="smi2adblock_77365"><a href="http://smi2.net/">Новости СМИ2</a></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-3"></div><div class="column__row column__row_article-page_right column__row_article-page_right-4"><div class="hide--partner--block" id="infox_904"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-5"><div class="column__cell column__cell_news24smi hide--partner--block"><div class="smi24__informer smi24__auto" data-smi-blockid="15031"></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-6"></div><div class="column__row column__row_article-page_right column__row_article-page_right-7"><div class="adfox_placeholder" id="ad300x600_t" style="display: table;"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-8"><div class="adfox_placeholder" id="dzen_widget"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-9"><div class="js-setka-news" data-bid="123" style="margin-top: 20px;"></div><style type="text/css">
+            @media (max-width: 768px) {
+                .js-setka-media[data-bid="197"] {
+                    display: block;
+                }
+            }
+         </style></div><div class="column__row column__row_article-page_right column__row_article-page_right-10"><div class="listing listing_foreign-press_right" data-component="Listing" onclick="return {
+            template: {
+                name: 'foreignPress',
+                loadPath: 'https://cdnru.rt.com/static/js/modules/foreignPress.min.js',
+                listing: {
+                    modifiersCard: 'listing__card_foreign-press'
+                },
+                card: {
+                    modifiersCover: 'card__cover_foreign-press_right',
+                }
+            },
+            singlePage: {
+               url: '/inotv/api/widgets/press.json' + '?_='+ parseInt(new Date().getTime() / 120000) /*добавляем раз в минуту новую переменую для кэша*/
+            }
+        };"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-11 column__row_adfox-bottom"><div class="js-sticky"><div class="js-sticky__content"><div class="adfox_placeholder" id="ad300x600_b" style="display: table;"></div></div></div></div></div></div></div><div class="rows__column"></div></div></div></div></div><div class="clears-mh"></div><div class="layout__footer"><div class="footer js-mediator-footer"><div class="footer__content"><div class="footer__control-width"><div class="footer__left left-role"><div class="footer__navs footer__navs_item_1"><div class="nav nav_langs"><ul class="nav__row footer__nav footer__nav_1"><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//swentr.site/" target="_blank">
+
+                            English
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//de.rt.com/" target="_blank">
+
+                            Deutsch
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//francais.rt.com/" target="_blank">
+
+                            Français
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//arabic.rt.com/" target="_blank">
+
+                            العربية
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//actualidad.rt.com/" target="_blank">
+
+                            Español
+
+                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//rt.rs/" target="_blank">
+
+                            Српски
+
+                        </a></li></ul></div><ul class="footer__nav footer__nav_last"><li class="footer__nav-item"><a class="footer__nav-link" href="//rtd.rt.com/" target="blank">
+                                    RTД на английском
+                                </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//doc.rt.com/" target="blank">
+                                    RTД на русском
+                                </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//ruptly.agency/" target="blank">
+                                    RUPTLY
+                                </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//ru.gw2ru.com" target="blank">
+                                    Окно в Россию
+                                </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//school.rt.com/" target="blank">
+                                    Школа RT
+                                </a></li><li class="footer__nav-item footer__nav-item_rt-shop"><a class="footer__nav-link footer__nav-link_rt-shop" href="//shop-rt.com/" onclick="ga('send', 'event', 'RT_SHOP_RU', 'CLICK_BUTTON', '/russia/news/1451705-peterburge-14-let-tyurmy')" style="background-image: url('https://shop-rt.com/local/templates/rt_store/images/logo-ru.svg')" target="blank"></a></li></ul></div><div class="footer__social"><div class="socials socials_footer"><ul class="socials__row socials__row_footer"><li class="socials__item socials__item_footer"><a class="socials__link socials__link_vkontakte" href="//vk.com/rt_russian" target="_blank">
+                    RT на русском Вконтакте
+                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_xtwitter" href="//twitter.com/RT_russian" target="_blank">
+                    Twitter RT Russian
+                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_telegram" href="//ttttt.me/rt_russian" target="_blank">
+                    Канал RT на Telegram.me
+                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_rutube" href="//rutube.ru/u/rtrussian/" target="_blank">
+                    RT на русском в rutube
+                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_odnoklassniki" href="//ok.ru/rtrussian" target="_blank">
+                    RT на русском группа на Одноклассники.ru
+                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_yandex-zen" href="//dzen.ru/russian.rt.com" target="_blank">
+                    RT на русском в Дзен
+                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_rss" href="/rss" target="_blank">
+                    rss
+                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_tiktok" href="//www.tiktok.com/@russian_rt" target="_blank">
+                    RT на русском в TikTok
+                </a></li></ul></div></div><input class="footer__button" id="footer__left" type="checkbox"/><label class="footer__button-switch" for="footer__left" onclick=""></label><div class="footer__navs footer__navs_item_2"><ul class="footer__nav footer__nav_2"><li class="footer__nav-item"><a class="footer__nav-link" href="/press_releases">
+                                        Пресс-релизы
+                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/about">
+                                        О канале
+                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//rt.com/rt-promo-2022-ru">
+                                        Промо RT: Избранное
+                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//doc.rt.com/programmy/">
+                                        Программы RT
+                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/about-us/contact-info/">
+                                        Контакты
+                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//zakupki.rt.com/">
+                                        Текущие закупки RT
+                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="mailto:russian@rttv.ru">
+                                        Написать в редакцию
+                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/partners">
+                                        Новости партнёров
+                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/recommendations">
+                                        Системы рекомендаций
+                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//shop-rt.com"></a></li></ul></div><div class="footer__navs footer__navs_item_3"><ul class="footer__nav footer__nav_3"><li class="footer__nav-item"><a class="footer__nav-link" href="/news">
+                                            Новости
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/world">
+                                            Мир
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/russia">
+                                            Россия
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/ussr">
+                                            Бывший СССР
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/business">
+                                            Экономика
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/sport">
+                                            Спорт
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/science">
+                                            Наука
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/nopolitics">
+                                            Без политики
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/opinion">
+                                            Мнения
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/inotv" target="_blank">
+                                            ИноТВ
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/foto">
+                                            Фото
+                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/video">
+                                            Видео
+                                        </a></li></ul></div></div><div class="footer__right"><div class="footer__seach-form"><form action="/search" class="search header__search-form_js" name="search"><div class="search__wrapper search__submit-footer"><input class="search__submit" id="search__submit-footer" type="checkbox" value="Поиск"><label class="search__submit-label search_label_js-footer" for="search__submit-footer"></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск"/><div class="search__text"><input id="search_input_field-footer" maxlength="100" name="q" type="text" value=""/></div></input></div></form></div></div></div><div class="footer__control-width"><div class="footer__age-limit">18+</div></div></div><div class="footer__copyright footer__copyright_share-article"><div class="footer__control-width"><div class="copyright"><div class="copyright__logo"><a class="" href="/">
+               RT
+            </a></div><div class="copyright__text"><p>© Автономная некоммерческая организация «ТВ-Новости», 2005—2025 гг. Все права защищены.</p><p>Сетевое издание <a class="link" href="https://rt.com">rt.com</a> зарегистрировано Роскомнадзором 14 августа 2020 г., свидетельство Эл № ФС 77-78993</p><p>Главный редактор: Симоньян М. С. Адрес редакции: 111020, Москва, Боровая улица, 3к1. Телефон: <a class="link" href="tel:+74997500075">+7 499 750-00-75</a> доб. 1200 E-mail: <a class="link" href="mailto:info@rttv.ru">info@rttv.ru</a></p><p><a class="link" href="https://russian.rt.com/privacy">Политика АНО «ТВ-Новости» в отношении обработки персональных данных</a></p></div></div></div></div><noindex><div class="footer__organizations"><div class="footer__organizations-wrapper"><p class="footer__organizations-title">Организации, признанные экстремистскими и запрещённые на территории РФ</p><div class="footer__organizations-image"><span class="footer__organizations-image__wrapper"></span></div></div></div></noindex></div></div><div class="cookies__banner js-cookies-banner"><div class="cookies__banner-wrapper"><p class="cookies__banner-text">Данный сайт использует файлы <a href="https://russian.rt.com/privacy-policy" target="_blank">cookies</a></p><a class="cookies__banner-button js-cookies-button">Подтвердить</a></div></div></div><div class="overlay"></div><!-- google analytics --><!--/ google analytics --><!--LiveInternet counter--><div style="position: fixed; left: -9999px;"></div><!--/LiveInternet--><!-- Yandex.Metrika Counter --><noscript><div><img alt="" src="https://mc.yandex.ru/watch/48853397" style="position:absolute; left:-9999px;"/></div></noscript><!-- /Yandex.Metrika counter --><!-- Yandex.Metrika counter --><noscript><div><img alt="" src="https://mc.yandex.ru/watch/27102311" style="position:absolute; left:-9999px;"/></div></noscript><!-- /Yandex.Metrika counter --><!-- Begin comScore Tag --><noscript><img alt="" src="//b.scorecardresearch.com/p?c1=2&amp;c2=17935924&amp;cv=2.0&amp;cj=1"/></noscript><!-- End comScore Tag --><!-- tns-counter.ru --><noscript><img alt="" height="1" src="http://www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_russia/" width="1"/></noscript><!--/ tns-counter.ru --><!-- mediator --><!-- /mediator --><!-- Top100 (Kraken) Counter --><noscript><img alt="Топ-100" src="//counter.rambler.ru/top100.cnt?pid=1886286"/></noscript><!-- END Top100 (Kraken) Counter --><!-- Top.Mail.Ru counter --><noscript><div><img alt="Top.Mail.Ru" src="https://top-fwz1.mail.ru/counter?id=3361851;js=na" style="position:absolute;left:-9999px;"/></div></noscript><!-- /Top.Mail.Ru counter --><!--/ tns-counter.ru --><!--/ tns-counter.ru --></body></html> 
