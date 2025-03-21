@@ -1,330 +1,624 @@
-
 <!DOCTYPE html>
-<html lang="ru" prefix="og: http://ogp.me/ns#"><head><meta charset="utf-8"/><meta content="36879475773792950F4872586A371571" name="msvalidate.01"><meta content="no" name="apple-mobile-web-app-capable"/><meta content="telephone=yes" name="format-detection"/><meta content="width=device-width, initial-scale=1.0, user-scalable=yes" name="viewport"/><meta content="true" name="HandheldFriendly"/><meta content="width" name="MobileOptimzied"/><meta content="on" http-equiv="cleartype"/><meta content="tabbed" name="navigation"/><title>Сурков: Россия будет расширяться во всех направлениях, «насколько позволит Бог» — РТ на русском</title><meta content="Сурков: Россия будет расширяться во всех направлениях, «насколько позволит Бог» - Читайте подробнее на сайте РТ на русском." name="description"><meta content="240228462761886" property="fb:pages"><meta content="GYFQiVoLOXGoiBZb6BPk_PoFj173iKc7_nZ1eG1k-x4" name="google-site-verification"/><meta content="RT на русском" property="og:site_name"><meta content="ru_RU" property="og:locale"><meta content="article" property="og:type"><meta content="Сурков: Россия будет расширяться во всех направлениях, «насколько позволит Бог»" property="og:title"><meta content="https://russian.rt.com/russia/news/1451703-surkov-rossiya-rasshiryatsya" property="og:url"><meta content="Бывший помощник главы государства Владислав Сурков заявил, что Россия будет расширяться во всех направлениях, «насколько позволит Бог и насколько хватит сил»." property="og:description"><meta content="Сурков: Россия будет расширяться во всех направлениях, «насколько позволит Бог»" name="twitter:title"/><meta content="false" name="spotim:recommended_page"/><meta content="2025-03-20T12:42:27+03:00" name="published_time_telegram"/><meta content="https://mf.b37mrtl.ru/russian/images/2025.03/article/67dbe4d7ae5ac9051234c9b0.png" property="og:image"/><meta content="image/jpeg" property="og:image:type"/><meta content="840" property="og:image:width"/><meta content="450" property="og:image:height"/><meta content="https://mf.b37mrtl.ru/russian/images/2025.03/article/67dbe4d7ae5ac9051234c9b0.png" name="twitter:image"/><meta content="7259b709c9950c63" name="yandex-verification"/><meta content="@RT_russian" name="twitter:site"/><meta content="summary_large_image" name="twitter:card"/><meta content="iphone" name="twitter:app:name:iphone"><meta content="iphone" name="twitter:app:id:iphone"/><meta content="url" name="twitter:app:url:iphone"/><meta content="ipad" name="twitter:app:name:ipad"/><meta content="ipad" name="twitter:app:id:ipad"/><meta content="url" name="twitter:app:url:ipad"/><meta content="googleplay" name="twitter:app:name:googleplay"/><meta content="googleplay" name="twitter:app:id:googleplay"/><meta content="googleplay" name="twitter:app:url:googleplay"/><meta content="app-id=649316948, app-argument=russianrtnews://articles/1451703" name="apple-itunes-app"/><meta content="Россия" name="mediator_theme"/><meta content="1451703" name="mediator"/><meta content="2025-03-20T12:42:27+03:00" name="mediator_published_time"/><!-- rev-hash --></meta></meta></meta></meta></meta></meta></meta></meta></meta></meta></head><body><div class="layout"><div class="layout__header" id="layout__header"><div class="header js-header" id="header"><div class="header__section header__section_gray"><div class="header__content"><div class="header__social"><div class="socials"><ul class="socials__row"><li class="socials__item"><a class="socials__link socials__link_vkontakte" href="//vk.com/rt_russian" target="_blank">
-                    RT на русском Вконтакте
-                </a></li><li class="socials__item"><a class="socials__link socials__link_xtwitter" href="//twitter.com/RT_russian" target="_blank">
-                    Twitter RT Russian
-                </a></li><li class="socials__item"><a class="socials__link socials__link_telegram" href="//ttttt.me/rt_russian" target="_blank">
-                    Канал RT на Telegram.me
-                </a></li><li class="socials__item"><a class="socials__link socials__link_rutube" href="//rutube.ru/u/rtrussian/" target="_blank">
-                    RT на русском в rutube
-                </a></li><li class="socials__item"><a class="socials__link socials__link_odnoklassniki" href="//ok.ru/rtrussian" target="_blank">
-                    RT на русском группа на Одноклассники.ru
-                </a></li><li class="socials__item"><a class="socials__link socials__link_yandex-zen" href="//dzen.ru/russian.rt.com" target="_blank">
-                    RT на русском в Дзен
-                </a></li><li class="socials__item"><a class="socials__link socials__link_rss" href="/rss" target="_blank">
-                    rss
-                </a></li><li class="socials__item"><a class="socials__link socials__link_tiktok" href="//www.tiktok.com/@russian_rt" target="_blank">
-                    RT на русском в TikTok
-                </a></li></ul></div></div><div class="header__langs"><div class="langs"><div class="nav langs__nav"><ul class="nav__row nav__row_langs"><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//swentr.site/" target="_blank">
 
-                            ENG
+<html lang="ru-RU">
+<head>
+<!-- Yandex.RTB -->
 
-                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//de.rt.com/" target="_blank">
 
-                            DE
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover" name="viewport"/>
 
-                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//francais.rt.com/" target="_blank">
+<meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+<!-- This site is optimized with the Yoast SEO plugin v23.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<title>Эхеверия сизая - Echeveria glauca - ORGANICLAWN</title>
+<meta content="Эхеверия сизая - Echeveria glauca. Описание растения, свойства, способы применения, фотографии, ботанические иллюстрации, выдержки из литературы." name="description">
+</meta></meta></head>
+<body class="post-template-default single single-post postid-35360 single-format-standard wp-embed-responsive" data-footer="type-1" data-header="type-1" data-link="type-1" data-prefix="single_blog_post">
+<!-- Yandex.RTB R-A-2459359-11 -->
 
-                            FR
+<a class="skip-link show-on-focus" href="#main">
+	Перейти к сути</a>
+<div class="ct-drawer-canvas" data-location="start">
+<div class="ct-panel" data-behaviour="modal" id="search-modal">
+<div class="ct-panel-actions">
+<button aria-label="Закрыть модальное окно поиска" class="ct-toggle-close" data-type="type-1">
+<svg class="ct-icon" height="12" viewbox="0 0 15 15" width="12"><path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"></path></svg> </button>
+</div>
+<div class="ct-panel-content">
+<form action="https://organiclawn.ru/" aria-haspopup="listbox" class="ct-search-form" data-live-results="thumbs" method="get" role="search">
+<input aria-label="Искать..." autocomplete="off" class="modal-field" name="s" placeholder="Поиск" title="Искать..." type="search" value=""/>
+<div class="ct-search-form-controls">
+<button aria-label="Кнопка поиска" class="wp-element-button" data-button="icon" type="submit">
+<svg aria-hidden="true" class="ct-icon ct-search-button-content" height="15" viewbox="0 0 15 15" width="15"><path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"></path></svg>
+<span class="ct-ajax-loader">
+<svg viewbox="0 0 24 24">
+<circle cx="12" cy="12" fill="none" opacity="0.2" r="10" stroke="currentColor" stroke-miterlimit="10" stroke-width="2"></circle>
+<path d="m12,2c5.52,0,10,4.48,10,10" fill="none" stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2">
+<animatetransform attributename="transform" attributetype="XML" dur="0.6s" from="0 12 12" repeatcount="indefinite" to="360 12 12" type="rotate"></animatetransform>
+</path>
+</svg>
+</span>
+</button>
+<input name="ct_post_type" type="hidden" value="post:page:bwg_gallery:bwg_album:bwg_tag"/>
+<input class="ct-live-results-nonce" type="hidden" value="1c0a151344"/> </div>
+<div aria-live="polite" class="screen-reader-text" role="status">
+			Ничего не найдено		</div>
+</form>
+</div>
+</div>
+<div class="ct-panel ct-header" data-behaviour="right-side" id="offcanvas"><div class="ct-panel-inner">
+<div class="ct-panel-actions">
+<button aria-label="Закрыть выезжающую панель" class="ct-toggle-close" data-type="type-1">
+<svg class="ct-icon" height="12" viewbox="0 0 15 15" width="12"><path d="M1 15a1 1 0 01-.71-.29 1 1 0 010-1.41l5.8-5.8-5.8-5.8A1 1 0 011.7.29l5.8 5.8 5.8-5.8a1 1 0 011.41 1.41l-5.8 5.8 5.8 5.8a1 1 0 01-1.41 1.41l-5.8-5.8-5.8 5.8A1 1 0 011 15z"></path></svg>
+</button>
+</div>
+<div class="ct-panel-content" data-device="desktop"><div class="ct-panel-content-inner"></div></div><div class="ct-panel-content" data-device="mobile"><div class="ct-panel-content-inner">
+<nav aria-label="Меню вне холста" class="mobile-menu has-submenu" data-id="mobile-menu" data-interaction="click" data-toggle-type="type-1">
+<ul id="menu-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d1%82%d0%b0%d0%ba%d1%81%d0%be%d0%bd%d1%8b-1" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22539" role="none"><span class="ct-sub-menu-parent"><a class="ct-menu-link" href="https://organiclawn.ru/biological_systematics/eukaryota/fungi/" role="menuitem">Грибы</a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-mobile" role="menuitem"><svg class="ct-icon toggle-icon-1" height="15" viewbox="0 0 15 15" width="15"><path d="M3.9,5.1l3.6,3.6l3.6-3.6l1.4,0.7l-5,5l-5-5L3.9,5.1z"></path></svg></button></span>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29354" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/fungi/class_fungi/" role="menuitem">Классы</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29449" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/fungi/order_fungi/" role="menuitem">Порядки</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29681" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/fungi/family_fungi/" role="menuitem">Семейства</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29745" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/fungi/genus_fungi/" role="menuitem">Роды</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22510" role="none"><span class="ct-sub-menu-parent"><a class="ct-menu-link" href="https://organiclawn.ru/biological_systematics/eukaryota/plantae/" role="menuitem">Растения</a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-mobile" role="menuitem"><svg class="ct-icon toggle-icon-1" height="15" viewbox="0 0 15 15" width="15"><path d="M3.9,5.1l3.6,3.6l3.6-3.6l1.4,0.7l-5,5l-5-5L3.9,5.1z"></path></svg></button></span>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20369" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/division_plantae/" role="menuitem">Отделы</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20365" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/class_plantae/" role="menuitem">Классы</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20366" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/order_plantae/" role="menuitem">Порядки</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20368" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/family_plantae/" role="menuitem">Семейства</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20367" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/genus_plantae/" role="menuitem">Роды</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-20364" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/" role="menuitem">Виды</a></li>
+</ul>
+</li>
+</ul></nav>
+</div></div></div></div>
+<a aria-label="Наверх" class="ct-back-to-top ct-hidden-sm" data-alignment="right" data-shape="square" hidden="" href="#main-container" title="Наверх">
+<svg class="ct-icon" height="15" viewbox="0 0 20 20" width="15"><path d="M10,0L9.4,0.6L0.8,9.1l1.2,1.2l7.1-7.1V20h1.7V3.3l7.1,7.1l1.2-1.2l-8.5-8.5L10,0z"></path></svg> </a>
+</div>
+<div id="main-container">
+<header class="ct-header" data-id="type-1" id="header"><div data-device="desktop"><div data-column-set="2" data-row="middle"><div class="ct-container"><div data-column="start" data-placements="1"><div data-items="primary">
+<div class="site-branding" data-id="logo">
+<div class="site-title-container">
+<span class="site-title">
+<a href="https://organiclawn.ru/" rel="home">
+						ORGANICLAWN					</a>
+</span>
+</div>
+</div>
+</div></div><div data-column="end" data-placements="1"><div data-items="primary">
+<nav aria-label="Меню шапки" class="header-menu-1" data-dropdown="type-1:solid" data-id="menu" data-interaction="hover" data-menu="type-4" data-responsive="no" id="header-menu-1">
+<ul class="menu" id="menu-%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d1%82%d0%b0%d0%ba%d1%81%d0%be%d0%bd%d1%8b" role="menubar"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22539 animated-submenu-block" id="menu-item-22539" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/biological_systematics/eukaryota/fungi/" role="menuitem">Грибы<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29354" id="menu-item-29354" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/fungi/class_fungi/" role="menuitem">Классы</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29449" id="menu-item-29449" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/fungi/order_fungi/" role="menuitem">Порядки</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29681" id="menu-item-29681" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/fungi/family_fungi/" role="menuitem">Семейства</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29745" id="menu-item-29745" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/fungi/genus_fungi/" role="menuitem">Роды</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-22510 animated-submenu-block" id="menu-item-22510" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/biological_systematics/eukaryota/plantae/" role="menuitem">Растения<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20369" id="menu-item-20369" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/division_plantae/" role="menuitem">Отделы</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20365" id="menu-item-20365" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/class_plantae/" role="menuitem">Классы</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20366" id="menu-item-20366" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/order_plantae/" role="menuitem">Порядки</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20368" id="menu-item-20368" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/family_plantae/" role="menuitem">Семейства</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20367" id="menu-item-20367" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/genus_plantae/" role="menuitem">Роды</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-20364" id="menu-item-20364" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/" role="menuitem">Виды</a></li>
+</ul>
+</li>
+</ul></nav>
+</div></div></div></div><div data-column-set="3" data-row="bottom"><div class="ct-container"><div data-column="start" data-placements="1"><div data-items="primary">
+<div class="ct-header-socials" data-id="socials">
+<div class="ct-social-box" data-color="official" data-icon-size="custom" data-icons-type="rounded:solid">
+<a aria-label="VK" data-network="vk" href="https://vk.com/organiclawn" rel="noopener" style="--official-color: #5382b6" target="_blank">
+<span class="ct-icon-container">
+<svg aria-hidden="true" height="20px" viewbox="0 0 20 20" width="20px">
+<path d="M19.2,4.8H16c-0.3,0-0.5,0.1-0.6,0.4c0,0-1.3,2.4-1.7,3.2c-1.1,2.2-1.8,1.5-1.8,0.5V5.4c0-0.6-0.5-1.1-1.1-1.1H8.2C7.6,4.3,6.9,4.6,6.5,5.1c0,0,1.2-0.2,1.2,1.5c0,0.4,0,1.6,0,2.6c0,0.4-0.3,0.7-0.7,0.7c-0.2,0-0.4-0.1-0.6-0.2c-1-1.4-1.8-2.9-2.5-4.5C4,5,3.7,4.8,3.5,4.8c-0.7,0-2.1,0-2.9,0C0.2,4.8,0,5,0,5.3c0,0.1,0,0.1,0,0.2C0.9,8,4.8,15.7,9.2,15.7H11c0.4,0,0.7-0.3,0.7-0.7v-1.1c0-0.4,0.3-0.7,0.7-0.7c0.2,0,0.4,0.1,0.5,0.2l2.2,2.1c0.2,0.2,0.5,0.3,0.7,0.3h2.9c1.4,0,1.4-1,0.6-1.7c-0.5-0.5-2.5-2.6-2.5-2.6c-0.3-0.4-0.4-0.9-0.1-1.3c0.6-0.8,1.7-2.2,2.1-2.8C19.6,6.5,20.7,4.8,19.2,4.8z"></path>
+</svg>
+</span><span class="ct-label ct-hidden-sm ct-hidden-md">VK</span> </a>
+</div>
+</div>
+</div></div><div data-column="middle"><div data-items="">
+<button aria-label="Поиск" class="ct-header-search ct-toggle" data-id="search" data-label="left" data-toggle-panel="#search-modal">
+<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Поиск</span>
+<svg aria-hidden="true" class="ct-icon" height="15" viewbox="0 0 15 15" width="15"><path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"></path></svg></button>
+</div></div><div data-column="end" data-placements="1"><div data-items="primary">
+<nav aria-label="Меню шапки" class="header-menu-2" data-dropdown="type-1:simple" data-id="menu-secondary" data-interaction="hover" data-menu="type-1" data-responsive="no" id="header-menu-2">
+<ul class="menu" id="menu-%d0%bd%d0%be%d0%b2%d0%be%d0%b5" role="menubar"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28759 animated-submenu-block" id="menu-item-28759" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/%d0%bf%d1%80%d0%be%d1%87%d0%b5%d0%b5/" role="menuitem">Прочее<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-26684 animated-submenu-inline" id="menu-item-26684" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/alphabetical_lists/plants_alphabet/" role="menuitem">Алфавитный список русских видовых названий растений<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26685" id="menu-item-26685" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%b0/" role="menuitem">Растения – А</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26686" id="menu-item-26686" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%b1/" role="menuitem">Растения – Б</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26687" id="menu-item-26687" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%b2/" role="menuitem">Растения – В</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26688" id="menu-item-26688" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%b3/" role="menuitem">Растения – Г</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26689" id="menu-item-26689" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%b4/" role="menuitem">Растения – Д</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26690" id="menu-item-26690" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%b5/" role="menuitem">Растения – Е</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26691" id="menu-item-26691" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%91/" role="menuitem">Растения – Ё</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26692" id="menu-item-26692" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%b6/" role="menuitem">Растения – Ж</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26693" id="menu-item-26693" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%b7/" role="menuitem">Растения – З</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26694" id="menu-item-26694" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%b8/" role="menuitem">Растения – И</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26695" id="menu-item-26695" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%ba/" role="menuitem">Растения – К</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26696" id="menu-item-26696" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%bb/" role="menuitem">Растения – Л</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26697" id="menu-item-26697" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%bc/" role="menuitem">Растения – М</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26698" id="menu-item-26698" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%bd/" role="menuitem">Растения – Н</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26699" id="menu-item-26699" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%be/" role="menuitem">Растения – О</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26700" id="menu-item-26700" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d0%bf/" role="menuitem">Растения – П</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26701" id="menu-item-26701" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%80/" role="menuitem">Растения – Р</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26702" id="menu-item-26702" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%81/" role="menuitem">Растения – С</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26703" id="menu-item-26703" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%82/" role="menuitem">Растения – Т</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26704" id="menu-item-26704" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%83/" role="menuitem">Растения – У</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26705" id="menu-item-26705" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%84/" role="menuitem">Растения – Ф</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26706" id="menu-item-26706" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%85/" role="menuitem">Растения – Х</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26707" id="menu-item-26707" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%86/" role="menuitem">Растения – Ц</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26708" id="menu-item-26708" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%87/" role="menuitem">Растения – Ч</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26709" id="menu-item-26709" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%88/" role="menuitem">Растения – Ш</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26710" id="menu-item-26710" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%89/" role="menuitem">Растения – Щ</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-26711" id="menu-item-26711" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%8d/" role="menuitem">Растения – Э</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26712" id="menu-item-26712" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%8e/" role="menuitem">Растения – Ю</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26713" id="menu-item-26713" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f_%d1%8f/" role="menuitem">Растения – Я</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-29332 animated-submenu-inline" id="menu-item-29332" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/%d1%84%d0%b8%d0%b7%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Физиология<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-29333" id="menu-item-29333" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/%d1%84%d0%b8%d0%b7%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%84%d0%b8%d0%b7%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f-%d1%87%d0%b5%d0%bb%d0%be%d0%b2%d0%b5%d0%ba%d0%b0/" role="menuitem">Физиология человека</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26725 animated-submenu-block" id="menu-item-26725" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/" role="menuitem">Литература<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26731 animated-submenu-inline" id="menu-item-26731" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d0%bf%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/" role="menuitem">Прикладная литература<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26732" id="menu-item-26732" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d0%bf%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%be%d0%bf%d1%80%d0%b5%d0%b4%d0%b5%d0%bb%d0%b8%d1%82%d0%b5%d0%bb%d1%8c/" role="menuitem">Определитель</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26733" id="menu-item-26733" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d0%bf%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bf%d0%be%d1%81%d0%be%d0%b1%d0%b8%d0%b5/" role="menuitem">Пособие</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26734" id="menu-item-26734" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d0%bf%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bf%d1%80%d0%b0%d0%ba%d1%82%d0%b8%d0%ba%d1%83%d0%bc/" role="menuitem">Практикум</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26729" id="menu-item-26729" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d0%bf%d1%80%d0%b8%d0%ba%d0%bb%d0%b0%d0%b4%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d1%81%d0%bb%d0%be%d0%b2%d0%b0%d1%80%d1%8c/" role="menuitem">Словарь</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26721 animated-submenu-inline" id="menu-item-26721" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/reference_literature/" role="menuitem">Справочная литература<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26726" id="menu-item-26726" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/reference_literature/atlas/" role="menuitem">Атлас</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26730" id="menu-item-26730" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/reference_literature/%d0%b6%d1%83%d1%80%d0%bd%d0%b0%d0%bb/" role="menuitem">Журнал</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26727" id="menu-item-26727" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/reference_literature/reference/" role="menuitem">Справочник</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26728" id="menu-item-26728" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/reference_literature/%d1%8d%d0%bd%d1%86%d0%b8%d0%ba%d0%bb%d0%be%d0%bf%d0%b5%d0%b4%d0%b8%d1%8f/" role="menuitem">Энциклопедия</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26722 animated-submenu-inline" id="menu-item-26722" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/" role="menuitem">Учебная литература<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-26822 animated-submenu-inline" id="menu-item-26822" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/" role="menuitem">Научные дисциплины<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26803 animated-submenu-inline" id="menu-item-26803" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Биология<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26804 animated-submenu-inline" id="menu-item-26804" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/" role="menuitem">Ботаника<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26806" id="menu-item-26806" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d0%be%d0%b1%d1%89%d0%b0%d1%8f-%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/" role="menuitem">Общая ботаника</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26818" id="menu-item-26818" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d0%b1%d1%80%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Бриология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26805" id="menu-item-26805" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d0%b3%d0%b5%d0%be%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/" role="menuitem">Геоботаника</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26817" id="menu-item-26817" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d0%b4%d0%b5%d0%bd%d0%b4%d1%80%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Дендрология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26816" id="menu-item-26816" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d0%ba%d0%b0%d1%80%d0%bf%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Карпология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26815" id="menu-item-26815" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d0%bb%d0%b8%d1%85%d0%b5%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Лихенология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26807" id="menu-item-26807" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d0%bf%d0%b0%d0%bb%d0%b5%d0%be%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/" role="menuitem">Палеоботаника</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26814" id="menu-item-26814" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d0%bf%d0%b0%d0%bb%d0%b8%d0%bd%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Палинология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26813" id="menu-item-26813" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d0%bf%d0%be%d0%bc%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Помология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26812" id="menu-item-26812" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d1%84%d0%b8%d1%82%d0%be%d0%b3%d0%b5%d0%be%d0%b3%d1%80%d0%b0%d1%84%d0%b8%d1%8f/" role="menuitem">Фитогеография</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26811" id="menu-item-26811" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d1%84%d0%b8%d1%82%d0%be%d0%bc%d0%be%d1%80%d1%84%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Фитоморфология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26819" id="menu-item-26819" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d1%84%d0%b8%d1%82%d0%be%d0%bf%d0%b0%d1%82%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Фитопатология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26810" id="menu-item-26810" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d1%84%d0%b8%d1%82%d0%be%d1%8d%d0%bc%d0%b1%d1%80%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Фитоэмбриология</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26808" id="menu-item-26808" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%b1%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b1%d0%be%d1%82%d0%b0%d0%bd%d0%b8%d0%ba%d0%b0/%d1%84%d0%bb%d0%be%d1%80%d0%b8%d1%81%d1%82%d0%b8%d0%ba%d0%b0/" role="menuitem">Флористика</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26789 animated-submenu-inline" id="menu-item-26789" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Нутрициология<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26790 animated-submenu-inline" id="menu-item-26790" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/" role="menuitem">Системы питания<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26799" id="menu-item-26799" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b5%d0%b3%d0%b0%d0%bd%d1%81%d1%82%d0%b2%d0%be/" role="menuitem">Веганство</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26798" id="menu-item-26798" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b2%d0%b5%d0%b3%d0%b5%d1%82%d0%b0%d1%80%d0%b8%d0%b0%d0%bd%d1%81%d1%82%d0%b2%d0%be/" role="menuitem">Вегетарианство</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26791" id="menu-item-26791" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b3%d0%be%d0%bb%d0%be%d0%b4%d0%b0%d0%bd%d0%b8%d0%b5/" role="menuitem">Голодание</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26797" id="menu-item-26797" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b4%d0%b5%d1%82%d1%81%d0%ba%d0%be%d0%b5-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b5/" role="menuitem">Детское питание</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26796" id="menu-item-26796" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d0%b7%d0%b4%d0%be%d1%80%d0%be%d0%b2%d0%be%d0%b5-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b5/" role="menuitem">Здоровое питание</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26795" id="menu-item-26795" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d0%bb%d0%b5%d1%87%d0%b5%d0%b1%d0%bd%d0%be%d0%b5-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b5/" role="menuitem">Лечебное питание</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26794" id="menu-item-26794" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d1%81%d0%bf%d0%be%d1%80%d1%82%d0%b8%d0%b2%d0%bd%d0%be%d0%b5-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d0%b5/" role="menuitem">Спортивное питание</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26793" id="menu-item-26793" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d1%81%d1%8b%d1%80%d0%be%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d0%b5/" role="menuitem">Сыроедение</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26792" id="menu-item-26792" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d1%81%d0%b8%d1%81%d1%82%d0%b5%d0%bc%d1%8b-%d0%bf%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f/%d1%84%d1%80%d1%83%d0%ba%d1%82%d0%be%d1%80%d0%b8%d0%b0%d0%bd%d1%82%d1%81%d0%b2%d0%be/" role="menuitem">Фрукториантсво</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26800" id="menu-item-26800" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bd%d1%83%d1%82%d1%80%d0%b8%d1%86%d0%b8%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/%d0%b4%d0%b8%d0%b5%d1%82%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Диетология</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26801 animated-submenu-inline" id="menu-item-26801" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bc%d0%b5%d0%b4%d0%b8%d1%86%d0%b8%d0%bd%d0%b0/" role="menuitem">Медицина<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26802" id="menu-item-26802" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%bc%d0%b5%d0%b4%d0%b8%d1%86%d0%b8%d0%bd%d0%b0/%d1%84%d0%b0%d1%80%d0%bc%d0%b0%d0%ba%d0%be%d0%bb%d0%be%d0%b3%d0%b8%d1%8f/" role="menuitem">Фармакология</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26778 animated-submenu-inline" id="menu-item-26778" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/" role="menuitem">Учебные дисциплины<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26779 animated-submenu-inline" id="menu-item-26779" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%ba%d1%83%d0%bb%d0%b8%d0%bd%d0%b0%d1%80%d0%b8%d1%8f/" role="menuitem">Кулинария<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26785" id="menu-item-26785" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%ba%d1%83%d0%bb%d0%b8%d0%bd%d0%b0%d1%80%d0%b8%d1%8f/%d0%bd%d0%b0%d1%86%d0%b8%d0%be%d0%bd%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b5-%d0%ba%d1%83%d1%85%d0%bd%d0%b8/" role="menuitem">Национальные кухни</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-26782 animated-submenu-inline" id="menu-item-26782" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%ba%d1%83%d0%bb%d0%b8%d0%bd%d0%b0%d1%80%d0%b8%d1%8f/%d1%80%d0%b5%d1%86%d0%b5%d0%bf%d1%82%d1%8b/" role="menuitem">Рецепты<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26780" id="menu-item-26780" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%ba%d1%83%d0%bb%d0%b8%d0%bd%d0%b0%d1%80%d0%b8%d1%8f/%d1%80%d0%b5%d1%86%d0%b5%d0%bf%d1%82%d1%8b/%d0%b2%d0%b5%d0%b3%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d0%b5-%d1%80%d0%b5%d1%86%d0%b5%d0%bf%d1%82%d1%8b/" role="menuitem">Веганские рецепты</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26781" id="menu-item-26781" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%ba%d1%83%d0%bb%d0%b8%d0%bd%d0%b0%d1%80%d0%b8%d1%8f/%d1%80%d0%b5%d1%86%d0%b5%d0%bf%d1%82%d1%8b/%d0%b2%d0%b5%d0%b3%d0%b5%d1%82%d0%b0%d1%80%d0%b8%d0%b0%d0%bd%d1%81%d0%ba%d0%b8%d0%b5-%d1%80%d0%b5%d1%86%d0%b5%d0%bf%d1%82%d1%8b/" role="menuitem">Вегетарианские рецепты</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26783" id="menu-item-26783" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%ba%d1%83%d0%bb%d0%b8%d0%bd%d0%b0%d1%80%d0%b8%d1%8f/%d1%80%d0%b5%d1%86%d0%b5%d0%bf%d1%82%d1%8b/%d1%81%d1%8b%d1%80%d0%be%d0%b5%d0%b4%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b5-%d1%80%d0%b5%d1%86%d0%b5%d0%bf%d1%82%d1%8b/" role="menuitem">Сыроедческие рецепты</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26784" id="menu-item-26784" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b4%d0%b8%d1%81%d1%86%d0%b8%d0%bf%d0%bb%d0%b8%d0%bd%d1%8b/%d0%ba%d1%83%d0%bb%d0%b8%d0%bd%d0%b0%d1%80%d0%b8%d1%8f/%d1%80%d0%b5%d1%86%d0%b5%d0%bf%d1%82%d1%8b/%d1%82%d1%80%d0%b0%d0%b4%d0%b8%d1%86%d0%b8%d0%be%d0%bd%d0%bd%d1%8b%d0%b5-%d1%80%d0%b5%d1%86%d0%b5%d0%bf%d1%82%d1%8b/" role="menuitem">Традиционные рецепты</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26753" id="menu-item-26753" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/" role="menuitem">Научная литература</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26752" id="menu-item-26752" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d0%be-%d0%bf%d0%be%d0%bf%d1%83%d0%bb%d1%8f%d1%80%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/" role="menuitem">Научно-популярная литература</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-26751" id="menu-item-26751" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/literature/%d1%85%d1%83%d0%b4%d0%be%d0%b6%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%b0%d1%8f-%d0%bb%d0%b8%d1%82%d0%b5%d1%80%d0%b0%d1%82%d1%83%d1%80%d0%b0/" role="menuitem">Художественная литература</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28774 animated-submenu-block" id="menu-item-28774" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/nutrition/" role="menuitem">Питание<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28773 animated-submenu-inline" id="menu-item-28773" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/nutrition/nutrient_material/" role="menuitem">Питательные вещества<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-has-children menu-item-28832 animated-submenu-inline" id="menu-item-28832" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%b2%d0%b8%d1%82%d0%b0%d0%bc%d0%b8%d0%bd%d1%8b/" role="menuitem">Витамины<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-28768" id="menu-item-28768" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%b6%d0%b8%d1%80%d0%be%d1%80%d0%b0%d1%81%d1%82%d0%b2%d0%be%d1%80%d0%b8%d0%bc%d1%8b%d0%b5-%d0%b2%d0%b8%d1%82%d0%b0%d0%bc%d0%b8%d0%bd%d1%8b/" role="menuitem">Жирорастворимые</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-28769" id="menu-item-28769" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%b2%d0%be%d0%b4%d0%be%d1%80%d0%b0%d1%81%d1%82%d0%b2%d0%be%d1%80%d0%b8%d0%bc%d1%8b%d0%b5-%d0%b2%d0%b8%d1%82%d0%b0%d0%bc%d0%b8%d0%bd%d1%8b/" role="menuitem">Водорастворимые</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-28770" id="menu-item-28770" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%b2%d0%b8%d1%82%d0%b0%d0%bc%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b4%d0%be%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b2%d0%b5%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b0/" role="menuitem">Витаминоподобные вещества</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28762" id="menu-item-28762" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/nutrition/food_additive/" role="menuitem">Пищевые добавки</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28775 animated-submenu-inline" id="menu-item-28775" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/category/nutrition/food_supply/" role="menuitem">Пищевые продукты<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-has-children menu-item-28780 animated-submenu-inline" id="menu-item-28780" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%be%d0%b2%d0%be%d1%89%d0%b8/" role="menuitem">Овощи<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-28776" id="menu-item-28776" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%b1%d0%be%d0%b1%d0%be%d0%b2%d1%8b%d0%b5-%d0%be%d0%b2%d0%be%d1%89%d0%b8/" role="menuitem">Бобовые</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-28777" id="menu-item-28777" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%ba%d0%bb%d1%83%d0%b1%d0%bd%d0%b5%d0%bf%d0%bb%d0%be%d0%b4%d0%bd%d1%8b%d0%b5-%d0%be%d0%b2%d0%be%d1%89%d0%b8/" role="menuitem">Клубнеплоды</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-28778" id="menu-item-28778" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%ba%d0%be%d1%80%d0%bd%d0%b5%d0%b2%d0%b8%d1%89%d0%bd%d1%8b%d0%b5-%d0%be%d0%b2%d0%be%d1%89%d0%b8/" role="menuitem">Корневищные</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-28779" id="menu-item-28779" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%bb%d0%b8%d1%81%d1%82%d0%be%d0%b2%d1%8b%d0%b5-%d0%be%d0%b2%d0%be%d1%89%d0%b8/" role="menuitem">Листовые</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-28781" id="menu-item-28781" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%bf%d1%80%d1%8f%d0%bd%d1%8b%d0%b5-%d0%be%d0%b2%d0%be%d1%89%d0%b8/" role="menuitem">Пряные</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-has-children menu-item-28834 animated-submenu-inline" id="menu-item-28834" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d1%84%d1%80%d1%83%d0%ba%d1%82%d1%8b/" role="menuitem">Фрукты<span class="ct-toggle-dropdown-desktop"><svg class="ct-icon" height="8" viewbox="0 0 15 15" width="8"><path d="M2.1,3.2l5.4,5.4l5.4-5.4L15,4.3l-7.5,7.5L0,4.3L2.1,3.2z"></path></svg></span></a><button aria-expanded="false" aria-haspopup="true" aria-label="Раскрыть выпадающее меню" class="ct-toggle-dropdown-desktop-ghost" role="menuitem"></button>
+<ul class="sub-menu" role="menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-post_tag menu-item-28833" id="menu-item-28833" role="none"><a class="ct-menu-link" href="https://organiclawn.ru/tag/%d0%ba%d0%be%d1%81%d1%82%d0%be%d1%87%d0%ba%d0%be%d0%b2%d1%8b%d0%b5-%d1%84%d1%80%d1%83%d0%ba%d1%82%d1%8b/" role="menuitem">Косточковые фрукты</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></nav>
+</div></div></div></div></div><div data-device="mobile"><div data-column-set="2" data-row="middle"><div class="ct-container"><div data-column="start" data-placements="1"><div data-items="primary">
+<div class="ct-header-socials" data-id="socials">
+<div class="ct-social-box" data-color="official" data-icon-size="custom" data-icons-type="rounded:solid">
+<a aria-label="VK" data-network="vk" href="https://vk.com/organiclawn" rel="noopener" style="--official-color: #5382b6" target="_blank">
+<span class="ct-icon-container">
+<svg aria-hidden="true" height="20px" viewbox="0 0 20 20" width="20px">
+<path d="M19.2,4.8H16c-0.3,0-0.5,0.1-0.6,0.4c0,0-1.3,2.4-1.7,3.2c-1.1,2.2-1.8,1.5-1.8,0.5V5.4c0-0.6-0.5-1.1-1.1-1.1H8.2C7.6,4.3,6.9,4.6,6.5,5.1c0,0,1.2-0.2,1.2,1.5c0,0.4,0,1.6,0,2.6c0,0.4-0.3,0.7-0.7,0.7c-0.2,0-0.4-0.1-0.6-0.2c-1-1.4-1.8-2.9-2.5-4.5C4,5,3.7,4.8,3.5,4.8c-0.7,0-2.1,0-2.9,0C0.2,4.8,0,5,0,5.3c0,0.1,0,0.1,0,0.2C0.9,8,4.8,15.7,9.2,15.7H11c0.4,0,0.7-0.3,0.7-0.7v-1.1c0-0.4,0.3-0.7,0.7-0.7c0.2,0,0.4,0.1,0.5,0.2l2.2,2.1c0.2,0.2,0.5,0.3,0.7,0.3h2.9c1.4,0,1.4-1,0.6-1.7c-0.5-0.5-2.5-2.6-2.5-2.6c-0.3-0.4-0.4-0.9-0.1-1.3c0.6-0.8,1.7-2.2,2.1-2.8C19.6,6.5,20.7,4.8,19.2,4.8z"></path>
+</svg>
+</span><span class="ct-label ct-hidden-sm ct-hidden-md">VK</span> </a>
+</div>
+</div>
+<div class="site-branding" data-id="logo">
+<div class="site-title-container">
+<span class="site-title">
+<a href="https://organiclawn.ru/" rel="home">
+						ORGANICLAWN					</a>
+</span>
+</div>
+</div>
+<button aria-label="Поиск" class="ct-header-search ct-toggle" data-id="search" data-label="left" data-toggle-panel="#search-modal">
+<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Поиск</span>
+<svg aria-hidden="true" class="ct-icon" height="15" viewbox="0 0 15 15" width="15"><path d="M14.8,13.7L12,11c0.9-1.2,1.5-2.6,1.5-4.2c0-3.7-3-6.8-6.8-6.8S0,3,0,6.8s3,6.8,6.8,6.8c1.6,0,3.1-0.6,4.2-1.5l2.8,2.8c0.1,0.1,0.3,0.2,0.5,0.2s0.4-0.1,0.5-0.2C15.1,14.5,15.1,14,14.8,13.7z M1.5,6.8c0-2.9,2.4-5.2,5.2-5.2S12,3.9,12,6.8S9.6,12,6.8,12S1.5,9.6,1.5,6.8z"></path></svg></button>
+</div></div><div data-column="end" data-placements="1"><div data-items="primary">
+<button aria-label="Меню" class="ct-header-trigger ct-toggle" data-design="simple" data-id="trigger" data-label="right" data-toggle-panel="#offcanvas">
+<span class="ct-label ct-hidden-sm ct-hidden-md ct-hidden-lg">Меню</span>
+<svg aria-hidden="true" class="ct-icon" data-type="type-1" height="14" viewbox="0 0 18 14" width="18">
+<rect height="1.7" rx="1" width="18" y="0.00"></rect>
+<rect height="1.7" rx="1" width="18" y="6.15"></rect>
+<rect height="1.7" rx="1" width="18" y="12.3"></rect>
+</svg>
+</button>
+</div></div></div></div></div></header>
+<main class="site-main" id="main">
+<div class="ct-container" data-sidebar="right" data-vertical-spacing="top:bottom">
+<article class="post-35360 post type-post status-publish format-standard has-post-thumbnail hentry category-species_plantae category-_ tag-echeveria tag-echeveria-glauca" id="post-35360">
+<div class="hero-section" data-type="type-1">
+<header class="entry-header">
+<nav class="ct-breadcrumbs" data-source="default"><span class="first-item"><a href="https://organiclawn.ru/"><svg aria-hidden="true" class="ct-home-icon" fill="currentColor" focusable="false" viewbox="0 0 24 20" width="15"><path d="M12,0L0.4,10.5h3.2V20h6.3v-6.3h4.2V20h6.3v-9.5h3.2L12,0z"></path></svg><span class="screen-reader-text">Главная</span></a><svg aria-hidden="true" class="separator" fill="currentColor" focusable="false" height="8" viewbox="0 0 8 8" width="8">
+<path d="M2,6.9L4.8,4L2,1.1L2.6,0l4,4l-4,4L2,6.9z"></path>
+</svg></span><span class="item-0"><a href="https://organiclawn.ru/category/living_organism/"><span>Живые организмы</span></a><svg aria-hidden="true" class="separator" fill="currentColor" focusable="false" height="8" viewbox="0 0 8 8" width="8">
+<path d="M2,6.9L4.8,4L2,1.1L2.6,0l4,4l-4,4L2,6.9z"></path>
+</svg></span><span class="item-1"><a href="https://organiclawn.ru/category/living_organism/plantae/"><span>Растения</span></a><svg aria-hidden="true" class="separator" fill="currentColor" focusable="false" height="8" viewbox="0 0 8 8" width="8">
+<path d="M2,6.9L4.8,4L2,1.1L2.6,0l4,4l-4,4L2,6.9z"></path>
+</svg></span><span class="item-2"><a href="https://organiclawn.ru/category/living_organism/plantae/species_plantae/"><span>Виды</span></a><svg aria-hidden="true" class="separator" fill="currentColor" focusable="false" height="8" viewbox="0 0 8 8" width="8">
+<path d="M2,6.9L4.8,4L2,1.1L2.6,0l4,4l-4,4L2,6.9z"></path>
+</svg></span><span aria-current="page" class="last-item"><span>Эхеверия сизая - Echeveria glauca</span></span> </nav>
+<h1 class="page-title" title="Эхеверия сизая – Echeveria glauca">Эхеверия сизая – Echeveria glauca</h1> </header>
+</div>
+<figure class="ct-featured-image"><div class="ct-media-container"><img alt="Эхеверия сизая - Echeveria glauca" class="attachment-full size-full wp-post-image" decoding="async" height="1365" loading="lazy" sizes="(max-width: 1820px) 100vw, 1820px" src="https://organiclawn.ru/wp-content/uploads/2023/08/Echeveria_glauca.jpg" srcset="https://organiclawn.ru/wp-content/uploads/2023/08/Echeveria_glauca.jpg 1820w, https://organiclawn.ru/wp-content/uploads/2023/08/Echeveria_glauca-360x270.jpg 360w, https://organiclawn.ru/wp-content/uploads/2023/08/Echeveria_glauca-720x540.jpg 720w, https://organiclawn.ru/wp-content/uploads/2023/08/Echeveria_glauca-768x576.jpg 768w, https://organiclawn.ru/wp-content/uploads/2023/08/Echeveria_glauca-1536x1152.jpg 1536w" style="aspect-ratio: 4/3;" width="1820"/></div></figure>
+<div class="entry-content">
+<div class="code-block code-block-2" style="margin: 8px 0; clear: both;">
+<!-- Yandex.RTB R-A-2459359-7 -->
+</div>
+<p>Латинское название: Латинское название этого растения – Echeveria glauca.<br/>
+Другие названия: Это растение также широко известно как “голубая эхеверия”.<br/>
+Жизненная форма: Echeveria glauca – многолетний суккулент.<br/>
+Продолжительность жизни: Как многолетник, это растение обычно живет более двух лет.<br/>
+Места обитания: Этот суккулент предпочитает скалистые местообитания с хорошо дренированными почвами.<br/>
+Родина: Родина Echeveria glauca – Мексика.<br/>
+Географическое распространение: Хотя Echeveria glauca родом из Мексики, в настоящее время она культивируется по всему миру, особенно в регионах, где можно воспроизвести предпочитаемые ею засушливые условия.</p>
+<p><span id="more-35360"></span></p>
+<ul style="list-style-type: circle;">
+<li><span style="font-size: 12pt; color: #000000;">Основные таксоны</span></li>
+</ul>
+<p>Домен: <a href="https://organiclawn.ru/biological_systematics/eukaryota/">Эукариоты — Eukaryota</a><br/>
+Царство: <a href="https://organiclawn.ru/biological_systematics/eukaryota/plantae/">Растения — Plantae</a><br/>
+Отдел: <a href="https://organiclawn.ru/biological_systematics/eukaryota/plantae/magnoliophyta/">Цветковые — Magnoliophyta</a><br/>
+Класс: <a href="https://organiclawn.ru/biological_systematics/eukaryota/plantae/magnoliophyta/magnoliopsida/">Двудольные — Magnoliopsida</a><br/>
+Порядок: <a href="https://organiclawn.ru/biological_systematics/eukaryota/plantae/magnoliophyta/magnoliopsida/saxifragales/">Камнеломкоцветные — Saxifragales</a><br/>
+Семейство: <a href="https://organiclawn.ru/biological_systematics/eukaryota/plantae/magnoliophyta/magnoliopsida/saxifragales/crassulaceae/">Толстянковые – Crassulaceae</a><br/>
+<span style="font-size: 12pt;"><span style="color: #000000;">Род</span>: Эхеверия – Echeveria</span><br/>
+<span style="font-size: 12pt;"><span style="color: #000000;">Вид</span>: Эхеверия сизая – Echeveria glauca</span></p>
+<ul style="list-style-type: circle;">
+<li><span style="font-size: 12pt; color: #000000;">Ботаническое описание:</span></li>
+</ul>
+<p>Побег: Растение обычно растет в форме розетки, диаметр которой достигает 30 см.<br/>
+Цветки: Растение выпускает розово-красные цветки с желтой внутренней стороной на высоких цветоножках.<br/>
+Соцветия: Цветочные гроздья располагаются на дугообразных стеблях, выходящих из розетки.<br/>
+Плод: Плод – небольшая сухая капсула.<br/>
+Семена: Семена мелкие и многочисленные.<br/>
+Стебель: Стебель короткий и крепкий, поддерживающий розетку листьев.<br/>
+Лист: Листья мясистые, овальные, сине-серого цвета.<br/>
+Корень: Корневая система неглубокая и разветвленная, типичная для многих суккулентов.</p>
+<ul style="list-style-type: circle;">
+<li><span style="font-size: 12pt; color: #000000;">Общая информация:</span></li>
+</ul>
+<p>Химический состав<br/>
+Как суккулент, Echeveria glauca богата влагоаккумулирующими соединениями. Она также содержит различные фенольные соединения и флавоноиды, которые могут обладать потенциальными антиоксидантными свойствами. Для полного изучения химического состава этого растения необходимы дальнейшие исследования.</p>
+<p>Вред<br/>
+О вреде Echeveria glauca не известно. Однако, как и в случае с любым другим растением, возможны индивидуальные аллергические реакции.</p>
+<p>Применение в медицине<br/>
+Хотя эхеверия обычно не используется в современной медицине, в некоторых случаях ее применяют в народных средствах лечения кожных заболеваний благодаря ее антиоксидантным свойствам.</p>
+<p>Терапевтические эффекты<br/>
+Терапевтические эффекты Echeveria glauca не были подробно изучены и поэтому недостаточно определены.</p>
+<p>При каких заболеваниях<br/>
+Не существует конкретных заболеваний, при которых Echeveria glauca была бы доказана в качестве лечебного средства.</p>
+<p>Противопоказания<br/>
+Особых противопоказаний для применения Echeveria glauca не выявлено, однако перед использованием любого растения в лечебных целях целесообразно проконсультироваться с медицинским работником.</p>
+<p>Побочные эффекты<br/>
+Документально подтвержденных побочных эффектов от применения Echeveria glauca нет.</p>
+<p>Применение в народной медицине<br/>
+Хотя Echeveria glauca не получила широкого распространения в народной медицине, другие виды Echeveria использовались при таких заболеваниях, как легкие кожные заболевания.</p>
+<p>Сбор и заготовка<br/>
+Echeveria glauca обычно размножается не семенами, а листовыми черенками или отводками.</p>
+<p>Выращивание<br/>
+Это растение требует хорошо дренированной почвы, полного или частичного затенения и минимального количества воды, что делает его популярным выбором для каменистых садов и контейнеров.</p>
+<p>Применение в косметологии<br/>
+О специфическом применении Echeveria glauca в косметологии не сообщалось.</p>
+<p>Кулинарное применение<br/>
+Кулинарное применение Echeveria glauca неизвестно.</p>
+<p>Применение в ветеринарии<br/>
+О ветеринарном применении Echeveria glauca ничего не известно.</p>
+<p>Мифология<br/>
+Мифология, связанная с Echeveria glauca, отсутствует.</p>
+<p>Исторические факты<br/>
+Echeveria glauca входит в род Echeveria, названный в честь мексиканского ботаника XVIII века Атанасио Эчеверрии-и-Годоя.</p>
+<p>Применение по частям растения<br/>
+Целое растение: Часто используется как декоративное растение.<br/>
+Корень: Не имеет специфического применения.<br/>
+Листья: Используются для размножения.<br/>
+Семена: Редко используются из-за сложности размножения.<br/>
+Соцветия: Не имеют специфического применения.<br/>
+Плоды: Не имеют специфического применения.</p>
+<ul style="list-style-type: circle;">
+<li><span style="font-size: 12pt; color: #000000;">Выдержки из литературы</span></li>
+</ul>
+<ul class="su-posts su-posts-list-loop">
+<li>Записи не найдены</li>
+</ul>
+<div class="code-block code-block-3" style="margin: 8px 0; clear: both;">
+<!-- Yandex.RTB R-A-2459359-8 -->
+<div id="yandex_rtb_R-A-2459359-8"></div>
+</div>
+<!-- CONTENT END 1 -->
+</div>
+<div class="entry-tags"><a href="https://organiclawn.ru/tag/echeveria/" rel="tag"># Echeveria</a><a href="https://organiclawn.ru/tag/echeveria-glauca/" rel="tag"># Echeveria glauca</a></div>
+<div class="ct-share-box ct-hidden-sm" data-location="bottom" data-type="type-1">
+<span class="ct-module-title">Поделиться</span>
+<div data-icons-type="simple">
+<a aria-label="Facebook" data-network="facebook" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Forganiclawn.ru%2Fecheveria_glauca%2F" rel="noopener noreferrer nofollow">
+<span class="ct-icon-container">
+<svg aria-hidden="true" height="20px" viewbox="0 0 20 20" width="20px">
+<path d="M20,10.1c0-5.5-4.5-10-10-10S0,4.5,0,10.1c0,5,3.7,9.1,8.4,9.9v-7H5.9v-2.9h2.5V7.9C8.4,5.4,9.9,4,12.2,4c1.1,0,2.2,0.2,2.2,0.2v2.5h-1.3c-1.2,0-1.6,0.8-1.6,1.6v1.9h2.8L13.9,13h-2.3v7C16.3,19.2,20,15.1,20,10.1z"></path>
+</svg>
+</span> </a>
+<a aria-label="X (Twitter)" data-network="twitter" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Forganiclawn.ru%2Fecheveria_glauca%2F&amp;text=%D0%AD%D1%85%D0%B5%D0%B2%D0%B5%D1%80%D0%B8%D1%8F%20%D1%81%D0%B8%D0%B7%D0%B0%D1%8F%20%26%238211%3B%20Echeveria%20glauca" rel="noopener noreferrer nofollow">
+<span class="ct-icon-container">
+<svg aria-hidden="true" height="20px" viewbox="0 0 20 20" width="20px">
+<path d="M2.9 0C1.3 0 0 1.3 0 2.9v14.3C0 18.7 1.3 20 2.9 20h14.3c1.6 0 2.9-1.3 2.9-2.9V2.9C20 1.3 18.7 0 17.1 0H2.9zm13.2 3.8L11.5 9l5.5 7.2h-4.3l-3.3-4.4-3.8 4.4H3.4l5-5.7-5.3-6.7h4.4l3 4 3.5-4h2.1zM14.4 15 6.8 5H5.6l7.7 10h1.1z"></path>
+</svg>
+</span> </a>
+<a aria-label="Pinterest" data-network="pinterest" href="#" rel="noopener noreferrer nofollow">
+<span class="ct-icon-container">
+<svg aria-hidden="true" height="20px" viewbox="0 0 20 20" width="20px">
+<path d="M10,0C4.5,0,0,4.5,0,10c0,4.1,2.5,7.6,6,9.2c0-0.7,0-1.5,0.2-2.3c0.2-0.8,1.3-5.4,1.3-5.4s-0.3-0.6-0.3-1.6c0-1.5,0.9-2.6,1.9-2.6c0.9,0,1.3,0.7,1.3,1.5c0,0.9-0.6,2.3-0.9,3.5c-0.3,1.1,0.5,1.9,1.6,1.9c1.9,0,3.2-2.4,3.2-5.3c0-2.2-1.5-3.8-4.2-3.8c-3,0-4.9,2.3-4.9,4.8c0,0.9,0.3,1.5,0.7,2C6,12,6.1,12.1,6,12.4c0,0.2-0.2,0.6-0.2,0.8c-0.1,0.3-0.3,0.3-0.5,0.3c-1.4-0.6-2-2.1-2-3.8c0-2.8,2.4-6.2,7.1-6.2c3.8,0,6.3,2.8,6.3,5.7c0,3.9-2.2,6.9-5.4,6.9c-1.1,0-2.1-0.6-2.4-1.2c0,0-0.6,2.3-0.7,2.7c-0.2,0.8-0.6,1.5-1,2.1C8.1,19.9,9,20,10,20c5.5,0,10-4.5,10-10C20,4.5,15.5,0,10,0z"></path>
+</svg>
+</span> </a>
+<a aria-label="VK" data-network="vk" href="http://vk.com/share.php?url=https%3A%2F%2Forganiclawn.ru%2Fecheveria_glauca%2F&amp;title=%D0%AD%D1%85%D0%B5%D0%B2%D0%B5%D1%80%D0%B8%D1%8F%20%D1%81%D0%B8%D0%B7%D0%B0%D1%8F%20%26%238211%3B%20Echeveria%20glauca" rel="noopener noreferrer nofollow">
+<span class="ct-icon-container">
+<svg aria-hidden="true" height="20px" viewbox="0 0 20 20" width="20px">
+<path d="M19.2,4.8H16c-0.3,0-0.5,0.1-0.6,0.4c0,0-1.3,2.4-1.7,3.2c-1.1,2.2-1.8,1.5-1.8,0.5V5.4c0-0.6-0.5-1.1-1.1-1.1H8.2C7.6,4.3,6.9,4.6,6.5,5.1c0,0,1.2-0.2,1.2,1.5c0,0.4,0,1.6,0,2.6c0,0.4-0.3,0.7-0.7,0.7c-0.2,0-0.4-0.1-0.6-0.2c-1-1.4-1.8-2.9-2.5-4.5C4,5,3.7,4.8,3.5,4.8c-0.7,0-2.1,0-2.9,0C0.2,4.8,0,5,0,5.3c0,0.1,0,0.1,0,0.2C0.9,8,4.8,15.7,9.2,15.7H11c0.4,0,0.7-0.3,0.7-0.7v-1.1c0-0.4,0.3-0.7,0.7-0.7c0.2,0,0.4,0.1,0.5,0.2l2.2,2.1c0.2,0.2,0.5,0.3,0.7,0.3h2.9c1.4,0,1.4-1,0.6-1.7c-0.5-0.5-2.5-2.6-2.5-2.6c-0.3-0.4-0.4-0.9-0.1-1.3c0.6-0.8,1.7-2.2,2.1-2.8C19.6,6.5,20.7,4.8,19.2,4.8z"></path>
+</svg>
+</span> </a>
+<a aria-label="Telegram" data-network="telegram" href="https://t.me/share/url?url=https%3A%2F%2Forganiclawn.ru%2Fecheveria_glauca%2F&amp;text=%D0%AD%D1%85%D0%B5%D0%B2%D0%B5%D1%80%D0%B8%D1%8F%20%D1%81%D0%B8%D0%B7%D0%B0%D1%8F%20%26%238211%3B%20Echeveria%20glauca" rel="noopener noreferrer nofollow">
+<span class="ct-icon-container">
+<svg aria-hidden="true" height="20px" viewbox="0 0 20 20" width="20px">
+<path d="M19.9,3.1l-3,14.2c-0.2,1-0.8,1.3-1.7,0.8l-4.6-3.4l-2.2,2.1c-0.2,0.2-0.5,0.5-0.9,0.5l0.3-4.7L16.4,5c0.4-0.3-0.1-0.5-0.6-0.2L5.3,11.4L0.7,10c-1-0.3-1-1,0.2-1.5l17.7-6.8C19.5,1.4,20.2,1.9,19.9,3.1z"></path>
+</svg>
+</span> </a>
+</div>
+</div>
+</article>
+<aside class="ct-hidden-sm ct-hidden-md" data-type="type-2" id="sidebar">
+<div class="ct-sidebar" data-widgets="separated">
+<div class="ct-widget widget_block" id="block-56"><p>
+<div class="um um-login um-7186">
+<div class="um-form">
+<form action="" autocomplete="off" method="post">
+<div class="um-row _um_row_1" style="margin: 0 0 30px 0;"><div class="um-col-1"><div class="um-field um-field-text um-field-username um-field-text um-field-type_text" data-key="username" id="um_field_7186_username"><div class="um-field-label"><label for="username-7186">Username or E-mail</label><div class="um-clear"></div></div><div class="um-field-area"><input aria-invalid="false" autocomplete="off" class="um-form-field valid" data-key="username" data-validate="unique_username_or_email" id="username-7186" name="username-7186" placeholder="" type="text" value="">
+</input></div></div><div class="um-field um-field-password um-field-user_password um-field-password um-field-type_password" data-key="user_password" id="um_field_7186_user_password"><div class="um-field-label"><label for="user_password-7186">Пароль</label><div class="um-clear"></div></div><div class="um-field-area"><input aria-invalid="false" class="um-form-field valid" data-key="user_password" data-validate="" id="user_password-7186" name="user_password-7186" placeholder="" type="password" value="">
+</input></div></div></div></div> <input id="form_id_7186" name="form_id" type="hidden" value="7186">
+<p class="um_request_name">
+<label for="um_request_7186">Only fill in if you are not human</label>
+<input autocomplete="off" class="input" id="um_request_7186" name="um_request" size="25" type="hidden" value=""/>
+</p>
+<input id="_wpnonce" name="_wpnonce" type="hidden" value="b506ee9220"/><input name="_wp_http_referer" type="hidden" value="/echeveria_glauca/"/>
+<div class="um-col-alt">
+<div class="um-field um-field-c">
+<div class="um-field-area">
+<label class="um-field-checkbox">
+<input name="rememberme" type="checkbox" value="1"/>
+<span class="um-field-checkbox-state"><i class="um-icon-android-checkbox-outline-blank"></i></span>
+<span class="um-field-checkbox-option"> Запомнить меня</span>
+</label>
+</div>
+</div>
+<div class="um-clear"></div>
+<div class="um-left um-half">
+<input class="um-button" id="um-submit-btn" type="submit" value="Войти"/>
+</div>
+<div class="um-right um-half">
+<a class="um-button um-alt" href="https://organiclawn.ru/register/">
+					Зарегистрироваться				</a>
+</div>
+<div class="um-clear"></div>
+</div>
+<div class="um-col-alt-b">
+<a class="um-link-alt" href="https://organiclawn.ru/password-reset/">
+			Забыли пароль?		</a>
+</div>
+</input></form>
+</div>
+</div>
+<style>
+			.um-7186.um {
+			max-width: 450px;
+		}
+		</style>
+</p>
+</div><div class="ct-widget widget_tag_cloud" id="tag_cloud-5"><h3 class="widget-title">Метки</h3><div class="tagcloud"><a aria-label="Allium (22 элемента)" class="tag-cloud-link tag-link-1044 tag-link-position-1" href="https://organiclawn.ru/tag/allium/" style="font-size: 11.126213592233pt;">Allium</a>
+<a aria-label="Apiaceae (13 элементов)" class="tag-cloud-link tag-link-2238 tag-link-position-2" href="https://organiclawn.ru/tag/apiaceae/" style="font-size: 9.6990291262136pt;">Apiaceae</a>
+<a aria-label="Artemisia (13 элементов)" class="tag-cloud-link tag-link-1005 tag-link-position-3" href="https://organiclawn.ru/tag/artemisia/" style="font-size: 9.6990291262136pt;">Artemisia</a>
+<a aria-label="Asteraceae (27 элементов)" class="tag-cloud-link tag-link-2247 tag-link-position-4" href="https://organiclawn.ru/tag/asteraceae/" style="font-size: 11.73786407767pt;">Asteraceae</a>
+<a aria-label="Betula (8 элементов)" class="tag-cloud-link tag-link-1125 tag-link-position-5" href="https://organiclawn.ru/tag/betula/" style="font-size: 8.3398058252427pt;">Betula</a>
+<a aria-label="Boraginaceae (8 элементов)" class="tag-cloud-link tag-link-2248 tag-link-position-6" href="https://organiclawn.ru/tag/boraginaceae/" style="font-size: 8.3398058252427pt;">Boraginaceae</a>
+<a aria-label="Brassica (9 элементов)" class="tag-cloud-link tag-link-1102 tag-link-position-7" href="https://organiclawn.ru/tag/brassica/" style="font-size: 8.6796116504854pt;">Brassica</a>
+<a aria-label="Brassicaceae (17 элементов)" class="tag-cloud-link tag-link-2258 tag-link-position-8" href="https://organiclawn.ru/tag/brassicaceae/" style="font-size: 10.446601941748pt;">Brassicaceae</a>
+<a aria-label="Brassica oleracea (7 элементов)" class="tag-cloud-link tag-link-1994 tag-link-position-9" href="https://organiclawn.ru/tag/brassica-oleracea/" style="font-size: 8pt;">Brassica oleracea</a>
+<a aria-label="Caryophyllaceae (7 элементов)" class="tag-cloud-link tag-link-2222 tag-link-position-10" href="https://organiclawn.ru/tag/caryophyllaceae/" style="font-size: 8pt;">Caryophyllaceae</a>
+<a aria-label="Caryophyllales (9 элементов)" class="tag-cloud-link tag-link-2318 tag-link-position-11" href="https://organiclawn.ru/tag/caryophyllales/" style="font-size: 8.6796116504854pt;">Caryophyllales</a>
+<a aria-label="Equisetum (8 элементов)" class="tag-cloud-link tag-link-974 tag-link-position-12" href="https://organiclawn.ru/tag/equisetum/" style="font-size: 8.3398058252427pt;">Equisetum</a>
+<a aria-label="Ericaceae (8 элементов)" class="tag-cloud-link tag-link-2250 tag-link-position-13" href="https://organiclawn.ru/tag/ericaceae/" style="font-size: 8.3398058252427pt;">Ericaceae</a>
+<a aria-label="Ericales (8 элементов)" class="tag-cloud-link tag-link-2311 tag-link-position-14" href="https://organiclawn.ru/tag/ericales/" style="font-size: 8.3398058252427pt;">Ericales</a>
+<a aria-label="Fabaceae (15 элементов)" class="tag-cloud-link tag-link-2241 tag-link-position-15" href="https://organiclawn.ru/tag/fabaceae/" style="font-size: 10.038834951456pt;">Fabaceae</a>
+<a aria-label="Gentianales (8 элементов)" class="tag-cloud-link tag-link-2298 tag-link-position-16" href="https://organiclawn.ru/tag/gentianales/" style="font-size: 8.3398058252427pt;">Gentianales</a>
+<a aria-label="Lamiaceae (18 элементов)" class="tag-cloud-link tag-link-2257 tag-link-position-17" href="https://organiclawn.ru/tag/lamiaceae/" style="font-size: 10.582524271845pt;">Lamiaceae</a>
+<a aria-label="Liliopsida (20 элементов)" class="tag-cloud-link tag-link-2368 tag-link-position-18" href="https://organiclawn.ru/tag/liliopsida/" style="font-size: 10.854368932039pt;">Liliopsida</a>
+<a aria-label="Lycopsida (8 элементов)" class="tag-cloud-link tag-link-2375 tag-link-position-19" href="https://organiclawn.ru/tag/lycopsida/" style="font-size: 8.3398058252427pt;">Lycopsida</a>
+<a aria-label="Magnoliopsida (58 элементов)" class="tag-cloud-link tag-link-2369 tag-link-position-20" href="https://organiclawn.ru/tag/magnoliopsida/" style="font-size: 13.912621359223pt;">Magnoliopsida</a>
+<a aria-label="Malpighiales (7 элементов)" class="tag-cloud-link tag-link-2273 tag-link-position-21" href="https://organiclawn.ru/tag/malpighiales/" style="font-size: 8pt;">Malpighiales</a>
+<a aria-label="Malus (7 элементов)" class="tag-cloud-link tag-link-956 tag-link-position-22" href="https://organiclawn.ru/tag/malus/" style="font-size: 8pt;">Malus</a>
+<a aria-label="Malvaceae (7 элементов)" class="tag-cloud-link tag-link-2251 tag-link-position-23" href="https://organiclawn.ru/tag/malvaceae/" style="font-size: 8pt;">Malvaceae</a>
+<a aria-label="Pinus (11 элементов)" class="tag-cloud-link tag-link-985 tag-link-position-24" href="https://organiclawn.ru/tag/pinus/" style="font-size: 9.2233009708738pt;">Pinus</a>
+<a aria-label="Polygonaceae (7 элементов)" class="tag-cloud-link tag-link-2252 tag-link-position-25" href="https://organiclawn.ru/tag/polygonaceae/" style="font-size: 8pt;">Polygonaceae</a>
+<a aria-label="Polypodiophyta (7 элементов)" class="tag-cloud-link tag-link-2381 tag-link-position-26" href="https://organiclawn.ru/tag/polypodiophyta/" style="font-size: 8pt;">Polypodiophyta</a>
+<a aria-label="Primula (8 элементов)" class="tag-cloud-link tag-link-1016 tag-link-position-27" href="https://organiclawn.ru/tag/primula/" style="font-size: 8.3398058252427pt;">Primula</a>
+<a aria-label="Prunus (10 элементов)" class="tag-cloud-link tag-link-969 tag-link-position-28" href="https://organiclawn.ru/tag/prunus/" style="font-size: 8.9514563106796pt;">Prunus</a>
+<a aria-label="Ranunculaceae (13 элементов)" class="tag-cloud-link tag-link-2249 tag-link-position-29" href="https://organiclawn.ru/tag/ranunculaceae/" style="font-size: 9.6990291262136pt;">Ranunculaceae</a>
+<a aria-label="Ranunculales (7 элементов)" class="tag-cloud-link tag-link-2331 tag-link-position-30" href="https://organiclawn.ru/tag/ranunculales/" style="font-size: 8pt;">Ranunculales</a>
+<a aria-label="Rosa (10 элементов)" class="tag-cloud-link tag-link-961 tag-link-position-31" href="https://organiclawn.ru/tag/rosa/" style="font-size: 8.9514563106796pt;">Rosa</a>
+<a aria-label="Rosaceae (16 элементов)" class="tag-cloud-link tag-link-2255 tag-link-position-32" href="https://organiclawn.ru/tag/rosaceae/" style="font-size: 10.242718446602pt;">Rosaceae</a>
+<a aria-label="Rosales (10 элементов)" class="tag-cloud-link tag-link-2306 tag-link-position-33" href="https://organiclawn.ru/tag/rosales/" style="font-size: 8.9514563106796pt;">Rosales</a>
+<a aria-label="Solanum (8 элементов)" class="tag-cloud-link tag-link-1017 tag-link-position-34" href="https://organiclawn.ru/tag/solanum/" style="font-size: 8.3398058252427pt;">Solanum</a>
+<a aria-label="Sphenopsida (11 элементов)" class="tag-cloud-link tag-link-2374 tag-link-position-35" href="https://organiclawn.ru/tag/sphenopsida/" style="font-size: 9.2233009708738pt;">Sphenopsida</a>
+<a aria-label="Витаминоподобные вещества (13 элементов)" class="tag-cloud-link tag-link-2743 tag-link-position-36" href="https://organiclawn.ru/tag/%d0%b2%d0%b8%d1%82%d0%b0%d0%bc%d0%b8%d0%bd%d0%be%d0%bf%d0%be%d0%b4%d0%be%d0%b1%d0%bd%d1%8b%d0%b5-%d0%b2%d0%b5%d1%89%d0%b5%d1%81%d1%82%d0%b2%d0%b0/" style="font-size: 9.6990291262136pt;">Витаминоподобные вещества</a>
+<a aria-label="Витамины (20 элементов)" class="tag-cloud-link tag-link-2755 tag-link-position-37" href="https://organiclawn.ru/tag/%d0%b2%d0%b8%d1%82%d0%b0%d0%bc%d0%b8%d0%bd%d1%8b/" style="font-size: 10.854368932039pt;">Витамины</a>
+<a aria-label="Водорастворимые витамины (20 элементов)" class="tag-cloud-link tag-link-2742 tag-link-position-38" href="https://organiclawn.ru/tag/%d0%b2%d0%be%d0%b4%d0%be%d1%80%d0%b0%d1%81%d1%82%d0%b2%d0%be%d1%80%d0%b8%d0%bc%d1%8b%d0%b5-%d0%b2%d0%b8%d1%82%d0%b0%d0%bc%d0%b8%d0%bd%d1%8b/" style="font-size: 10.854368932039pt;">Водорастворимые витамины</a>
+<a aria-label="Выдержки из литературы (912 элементов)" class="tag-cloud-link tag-link-1892 tag-link-position-39" href="https://organiclawn.ru/tag/excerpt/" style="font-size: 22pt;">Выдержки из литературы</a>
+<a aria-label="Корневищные овощи (14 элементов)" class="tag-cloud-link tag-link-2751 tag-link-position-40" href="https://organiclawn.ru/tag/%d0%ba%d0%be%d1%80%d0%bd%d0%b5%d0%b2%d0%b8%d1%89%d0%bd%d1%8b%d0%b5-%d0%be%d0%b2%d0%be%d1%89%d0%b8/" style="font-size: 9.9029126213592pt;">Корневищные овощи</a>
+<a aria-label="Листовые овощи (19 элементов)" class="tag-cloud-link tag-link-2750 tag-link-position-41" href="https://organiclawn.ru/tag/%d0%bb%d0%b8%d1%81%d1%82%d0%be%d0%b2%d1%8b%d0%b5-%d0%be%d0%b2%d0%be%d1%89%d0%b8/" style="font-size: 10.718446601942pt;">Листовые овощи</a>
+<a aria-label="Наземные травы (7 элементов)" class="tag-cloud-link tag-link-2389 tag-link-position-42" href="https://organiclawn.ru/tag/%d0%bd%d0%b0%d0%b7%d0%b5%d0%bc%d0%bd%d1%8b%d0%b5-%d1%82%d1%80%d0%b0%d0%b2%d1%8b/" style="font-size: 8pt;">Наземные травы</a>
+<a aria-label="Овощи (45 элементов)" class="tag-cloud-link tag-link-2744 tag-link-position-43" href="https://organiclawn.ru/tag/%d0%be%d0%b2%d0%be%d1%89%d0%b8/" style="font-size: 13.165048543689pt;">Овощи</a>
+<a aria-label="Пряные овощи (8 элементов)" class="tag-cloud-link tag-link-2752 tag-link-position-44" href="https://organiclawn.ru/tag/%d0%bf%d1%80%d1%8f%d0%bd%d1%8b%d0%b5-%d0%be%d0%b2%d0%be%d1%89%d0%b8/" style="font-size: 8.3398058252427pt;">Пряные овощи</a>
+<a aria-label="Травянистые растения (7 элементов)" class="tag-cloud-link tag-link-2388 tag-link-position-45" href="https://organiclawn.ru/tag/%d1%82%d1%80%d0%b0%d0%b2%d1%8f%d0%bd%d0%b8%d1%81%d1%82%d1%8b%d0%b5-%d1%80%d0%b0%d1%81%d1%82%d0%b5%d0%bd%d0%b8%d1%8f/" style="font-size: 8pt;">Травянистые растения</a></div>
+</div>
+</div>
+</aside>
+</div>
+</main>
+<footer class="ct-footer" data-id="type-1" id="footer"><div data-row="top"><div class="ct-container"><div data-column="ghost"></div><div data-column="ghost"></div></div></div></footer></div>
+<div id="um_upload_single" style="display:none;"></div>
+<div id="um_view_photo" style="display:none;">
+<a aria-label="Закрыть окно просмотра фото" class="um-modal-close" data-action="um_remove_modal" href="javascript:void(0);">
+<i class="um-faicon-times"></i>
+</a>
+<div class="um-modal-body photo">
+<div class="um-modal-photo"></div>
+</div>
+</div>
 
-                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//arabic.rt.com/" target="_blank">
 
-                            العربية
 
-                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//actualidad.rt.com/" target="_blank">
 
-                            ESP
 
-                        </a></li><li class="nav__row-item nav__row-item_lang"><a class="nav__link nav__link_lang link" href="//rt.rs/" target="_blank">
 
-                            RS
 
-                        </a></li></ul></div></div></div><div class="header__media-projects"><div class="nav nav_media-projects"><ul class="nav__row nav__row_media-projects"><li class="nav__row-item nav__row-item_media-projects"><a class="nav__link nav__link_media-projects link" href="//doc.rt.com/" target="_blank">
 
-                            RTД
 
-                        </a></li></ul></div></div><div class="clears-mh"></div></div></div><div class="header__section header__section_border-bottom_gray"><div class="header__content"><div class="header__logo"><a class="logo" href="/"><span class="logo__image">RT</span><span class="logo__text">На русском</span></a></div><div class="header__trend-donbass"><a aria-label="Семья - Россия" class="header__trend-donbass_bgi" href="/russia/video/1425475-amerikanskie-hristiane-vybrali-dlya-zhizni-moskvu"></a></div><div class="header__seach-form"><form action="/search" class="search header__search-form_js" name="search"><div class="search__wrapper search__submit-top"><input class="search__submit" id="search__submit-top" type="checkbox" value="Поиск"/><label class="search__submit-label search_label_js-top" for="search__submit-top"></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск"/><div class="search__text"><input id="search_input_field-top" maxlength="100" name="q" type="text" value=""/></div></div></form></div><ul class="mobile-nav"><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_search">Search</a></li><li class="mobile-nav__item"><a class="js-mobile-element-nav mobile-nav__link mobile-nav__link_menu">Menu mobile</a></li></ul></div></div><div class="header__section" id="header-nav"><div class="header__content"><div class="nav nav_header"><ul class="nav__row nav__row_center"><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/news">
 
-                            Новости
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/world">
 
-                            Мир
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header nav__link_header_active link" href="/russia">
 
-                            Россия
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/ussr">
 
-                            Бывший СССР
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/business">
 
-                            Экономика
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/sport">
 
-                            Спорт
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/science">
 
-                            Наука
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/nopolitics">
 
-                            Без политики
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/opinion">
 
-                            Мнения
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/inotv" target="_blank">
 
-                            ИноТВ
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/foto">
 
-                            Фото
 
-                        </a></li><li class="nav__row-item nav__row-item_header"><a class="nav__link nav__link_header link" href="/video">
 
-                            Видео
 
-                        </a></li></ul></div></div></div><div class="header__section header__trend-donbass_section"><a href="/trend/355231-donbass">Спецоперация на Украине</a></div></div></div><div class="layout__popular-trends"><div class="layout__control-width"><div class="nav nav_popular-trends"><ul class="nav__row nav__row_popular-trends"><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="58357206c46188dc658b45ad" href="/trend/334937-politika">
-                            Политика
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="58358a24c4618866648b45cf" href="/trend/334955-proisshestviya">
-                            Происшествия
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="583585fac461889d658b484c" href="/trend/334939-obschestvo">
-                            Общество
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="613b8ee102e8bd59781647ab" href="/trend/905563-soyuznoe-gosudarstvo">
-                            Союзное государство
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="58358805c46188db658b4858" href="/trend/334946-armiya">
-                            Армия
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5cdd8f2718356130188b456d" href="/trend/631759-regiony">
-                            Регионы
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5af031dc18356126508b457a" href="/trend/510304-ne-odin-na-odin">
-                            Не один на один
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5d9c816eae5ac94e162e7789" href="/trend/675606-nezabytye-istorii">
-                            Незабытые истории
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5c1b40bd183561c7218b45bc" href="/trend/585226-rassledovaniya-rt">
-                            Расследования RT
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="5835895ac4618866648b45ae" href="/trend/334950-religiya">
-                            Религия
-                        </a></li><li class="nav__row-item nav__row-item_popular-trends"><a class="nav__link nav__link_popular-trends" data-trends-link="583586e1c461889f658b4897" href="/trend/334942-pravo">
-                            Право
-                        </a></li></ul></div></div></div><div class="layout__wrapper layout__wrapper_article-page"><div class="layout__breaking"></div><div class="layout__banners rows__bottom"><div id="billboard" style="max-width: 1240px; margin: 0 auto; display: table;"></div></div><div class="layout__content"><div class="layout__rows"><div class="rows rows_article-page"><div class="rows__column rows__column_article-page_left"><div class="column"><div class="flex-news-block"><div class="column__row"><div class="article article_article-page"><h1 class="article__heading article__heading_article-page">Сурков: Россия будет расширяться во всех направлениях, «насколько позволит Бог»</h1><div class="article__date-autor-shortcode article__date-author-shortcode_article-page"><div class="article__short-url-block"><div class="short-url article__short-url"><a class="short-url__link" href="https://ru.rt.com/v453">Короткая ссылка</a></div></div><div class="article__date article__date_article-page"><time class="date" datetime="2025-03-20 12:42">
-		20 марта 2025, 12:42
-	</time></div><div class="article__label"></div></div><div class="article__share article__share_article-page"><div class="social-container" data-buttons="vk, ok, xtwitter, telegram" data-counters=""></div></div><div class="article__summary article__summary_article-page js-mediator-article">Бывший помощник главы государства Владислав Сурков заявил, что Россия будет расширяться во всех направлениях, «насколько позволит Бог и насколько хватит сил».</div><div class="article__cover article__cover_article-page"><img alt="Сурков: Россия будет расширяться во всех направлениях, «насколько позволит Бог»" class="article__cover-image" src="https://mf.b37mrtl.ru/russian/images/2025.03/article/67dbe4d7ae5ac9051234c9b0.png"/><ul class="article__cover-description"><li class="article__cover-source">
-                                РИА Новости
-                            </li></ul></div><div class="article__text article__text_article-page js-mediator-article"><p>Своим мнением он поделился с журналистами <a href="https://www.lexpress.fr/monde/europe/exclusif-vladislav-sourkov-le-vrai-mage-du-kremlin-la-russie-setendra-dans-toutes-les-directions-PU4FYE4TZBET7GJIXHXIEPJN7A/?cmp_redirect=true" rel="noopener noreferrer" target="_blank">L'Express</a>.</p><p>По словам Суркова, русский мир не имеет границ и существует везде, где ощущается влияние России.</p><p>«Степень нашего влияния сильно различается от региона к региону, но она никогда не равна нулю», — заявил Сурков.</p><p>Ранее экс-помощник президента заявил, что победа России изменит мир и создаст предпосылки для формирования <a href="https://russian.rt.com/world/news/1209213-surkov-rossiya-ssha-evropa" rel="noopener noreferrer" target="_blank">нового общего социального и культурного пространства</a>.</p></div><div class="error-on-page"><a class="error-on-page__link" id="error-on-page-link">Ошибка в тексте?</a> Выделите её и нажмите «Ctrl + Enter»</div><div class="article__facebook article__facebook_article-page_news"></div><div class="follows-channel follows-channel_top-middle follows-channel_djen"><div class="follows-channel__content">Подписывайтесь на наш канал в <a href="https://dzen.ru/russian.rt.com" onclick="ga('send', 'event', 'banner', 'click', 'Яндекс.Дзен');" target="_blank">Дзен</a></div></div><div class="article__tags-trends article__tags-trends_article-page tags-trends"><div class="tags-trends__wrapper"><a class="tags-trends__link link link_underline_color" href="/tag/inotv" rel="tag">
-                                ИноТВ
-                            </a><a class="tags-trends__link link link_underline_color" href="/tag/politika" rel="tag">
-                                Политика
-                            </a><a class="tags-trends__link link link_underline_color" href="/tag/prezident" rel="tag">
-                                Президент
-                            </a><a class="tags-trends__link link link_underline_color" href="/tag/rossiya" rel="tag">
-                                Россия
-                            </a></div></div></div></div><div id="page_in"><div id="inpage"></div></div><div id="first_b"></div><div class="column__row"><div class="rt--partner-block rt--partner--smi2" id="unit_90702"><a href="http://smi2.ru/">Новости smi2.ru</a></div></div><div class="column__row"><div class="smi24__informer smi24__auto" data-smi-blockid="17123"></div><div class="smi24__informer smi24__auto" data-smi-blockid="26790"></div></div><div class="column__row"><!--—head ----><!--body --><!-- Sparrow --><div class="sparrow-banner" style=" 
-    padding: 10px;
-    background-color: #fff;
-    margin: 15px 0;
-"></div><style>
-    @media (min-width: 865px) {
-        .sparrow-banner {
-            display: none;
-        }
-    }
-</style><!-- /Sparrow --></div><div class="column__row"><div id="infox_22316"></div></div><div class="column__row"><div class="flex-news-block"><div class="today-media today-media_article" id="today-media-article"><strong class="today-media__heading today-media__heading_article">Сегодня в СМИ</strong><div class="today-media__content today-media__content_article" id="mediametrics"></div></div></div></div><div class="column__row column__row_plista"><div id="wd"></div></div><div id="b_comment"></div></div><div class="comments"><div class="comments__wrapper"><div class="tolstoycomments-feed lazy" data-lazy-function="lazy-comments"></div></div></div><style type="text/css">
-          .CommentsAlert {
-            background: #FFF;
-            padding: 12px;
-            width: 100%;
-            margin-bottom: 20px;
-            font-size: 16px;
-            box-sizing: border-box;
-            border-radius: 6px;
-          }
-          .comments__wrapper .button {
-            text-align: center;
-          }
-        </style><style>
-                                #adhesion>div {
-                                    margin: 4% auto;
-                                }
-                            </style><div id="adhesion"></div></div></div><div class="rows__column rows__column_article-page_right"><div class="column"><div class="column__content column__content_article-page_right"><div class="column__row column__row_article-page_right column__row_article-page_right-1"><ul class="tabs"><li class="tabs__item tabs__item_active tabs__item_1 tabs__item_right">
-            Лента новостей
-        </li><li class="tabs__item tabs__item_2 tabs__item_right">
-            Картина дня
-        </li></ul><div class="tabs__content tabs__content_active tabs__content_1"><div class="listing listing_short-news"><div class="listing__content listing__content_short-news"><ul class="listing__rows listing__rows_short-news"><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news"><div class="card__date card__date_short-news">
 
-      
-              12:58
-      
-    </div><div class="card__heading card__heading_short-news"><span class="card__informal card__informal_exclusive card__informal_short-news">Эксклюзив RT</span><a class="link link_color" href="/science/news/1451695-virusolog-lihoradka-oropush-opasnost">
-        Вирусолог Карпова: без драматического развития болезнь Оропуш проходит за неделю
-      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news card_not-cover"><div class="card__date card__date_short-news card__date_not-cover">
 
-      
-              12:57
-      
-    </div><div class="card__heading card__heading_short-news card__heading_not-cover"><a class="link link_color" href="/world/news/1451720-kreml-evropa-partiya-voiny">
-        В Кремле заявили о превращении Европы в «партию войны»
-      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news card_not-cover"><div class="card__date card__date_short-news card__date_not-cover">
 
-      
-              12:53
-      
-    </div><div class="card__heading card__heading_short-news card__heading_not-cover"><a class="link link_color" href="/world/news/1451715-moskva-gotovnost-peregovory">
-        Песков: Москва не получала сигналов от Брюсселя о готовности начать переговоры
-      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news card_not-cover"><div class="card__date card__date_short-news card__date_not-cover">
 
-      
-              12:53
-      
-    </div><div class="card__heading card__heading_short-news card__heading_not-cover card__heading_not-trends"><a class="link link_color" href="/world/news/1451702-vengriya-tramp-es-protivnik">
-        В Венгрии заявили, что Трамп считает ЕС политическим противником
-      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news"><div class="card__date card__date_short-news">
 
-      
-              12:49
-      
-    </div><div class="card__heading card__heading_short-news"><a class="link link_color" href="/world/news/1451713-peskov-putin-tramp-obsudili">
-        Песков: Путин и Трамп обсудили, кто мог бы представить страны на переговорах
-      </a></div></div></div></li><li class="listing__column listing__column_short-news"><div class="listing__card listing__card_short-news"><div class="card card_short-news"><div class="card__date card__date_short-news">
 
-      
-              12:47
-      
-    </div><div class="card__heading card__heading_short-news"><span class="card__informal card__informal_exclusive card__informal_short-news">Эксклюзив RT</span><a class="link link_color" href="/russia/news/1451694-dietolog-myaso-alternativa">
-        Диетолог Соломатина назвала альтернативу мясным блюдам в Великий пост
-      </a></div></div></div></li></ul><div class="smi24__informer smi24__auto" data-smi-blockid="30000"></div><div class="listing__button listing__button_short-news" data-href="/listing/type.News.tag.novosty-glavnoe/prepare/short-news/6/1"><div class="button"><a class="button__item link link_color" href="/news">
-            Все новости
-        </a></div></div></div></div></div><div class="tabs__content tabs__content_2"><div class="listing listing_picture-of-day"><div class="listing__content listing__content_picture-of-day"><ul class="listing__rows listing__rows_picture-of-day"><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67daa4b402e8bd6ae217de6e.jpg)"><a class="cover__link link cover__link_media" href="/russia/article/1451191-mvd-pomosch-deti-kazahstan-podmoskove-grazhdanstvo-rf"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/russia/article/1451191-mvd-pomosch-deti-kazahstan-podmoskove-grazhdanstvo-rf">
-        «Не верю своему счастью»: МВД помогло матери троих детей из Подмосковья подать заявление на гражданство РФ
-      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/russia/article/1451191-mvd-pomosch-deti-kazahstan-podmoskove-grazhdanstvo-rf#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451191"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67da785fae5ac9322747fb1f.jpg)"><a class="cover__link link cover__link_media" href="/science/article/1451083-den-schastya-psihologiya-istoriya"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/science/article/1451083-den-schastya-psihologiya-istoriya">
-        Коктейль гормонов или психологическое благополучие: эксперты — о счастье и как повысить его уровень
-      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/science/article/1451083-den-schastya-psihologiya-istoriya#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451083"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67cab18502e8bd608c2e400e.jpg)"><a class="cover__link link cover__link_media" href="/science/foto/726958-terakt-tokiiskoe-metro"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/science/foto/726958-terakt-tokiiskoe-metro">
-        «Чтобы подобное никогда не повторилось»: 30 лет со дня теракта в токийском метро
-      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/science/foto/726958-terakt-tokiiskoe-metro#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___726958"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67dbb41302e8bd3e2c207a11.jpg)"><a class="cover__link link cover__link_media" href="/russia/article/1451591-bpla-ataka-saratovskaya-oblast"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/russia/article/1451591-bpla-ataka-saratovskaya-oblast">
-        Пострадали больница, школа, детские сады, десятки домов: за ночь над Россией сбито 132 украинских БПЛА
-      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/russia/article/1451591-bpla-ataka-saratovskaya-oblast#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451591"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67daaa10ae5ac962372cf256.jpg)"><a class="cover__link link cover__link_media" href="/russia/article/1451180-pensionery-okkupaciya-prestupleniya-vsu-kurskaya-oblast"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><span class="card__informal card__informal_exclusive card__informal_picture-of-day">Эксклюзив RT</span><a class="link link_color" href="/russia/article/1451180-pensionery-okkupaciya-prestupleniya-vsu-kurskaya-oblast">
-        «Это был настоящий ад»: пенсионеры из курского села Казачья Локня рассказали RT о преступлениях ВСУ и жизни в оккупации
-      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/russia/article/1451180-pensionery-okkupaciya-prestupleniya-vsu-kurskaya-oblast#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451180"></span></a></div></div></div></li><li class="listing__column listing__column_picture-of-day"><div class="listing__card listing__card_picture-of-day"><div class="card card_picture-of-day"><div class="card__cover card__cover_picture-of-day"><div class="cover"><div class="cover__media cover__media_ratio cover__media_bgi" style="background-image: url(https://mf.b37mrtl.ru/russian/images/2025.03/thumbnail/67db6e6c02e8bd45b97f17f6.jpg)"><a class="cover__link link cover__link_media" href="/sport/article/1451290-regulyarka-intrigi-khl-ska-livo-lokomotiv"></a></div></div></div><div class="card__heading card__heading_picture-of-day"><a class="link link_color" href="/sport/article/1451290-regulyarka-intrigi-khl-ska-livo-lokomotiv">
-        Соперник для СКА, поддавки «Спартака» и ЦСКА и погоня Ливо за рекордом: какие интриги таит концовка регулярки КХЛ
-      </a></div><div class="card__spot-im-count card__spot-im-count_picture-of-day"><a class="spot-im-replies-href" href="/sport/article/1451290-regulyarka-intrigi-khl-ska-livo-lokomotiv#href_spot-im"><span class="spot-im-replies-count spot-im-above-min-count" data-post-id="article___1451290"></span></a></div></div></div></li></ul></div></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-2"><div class="hide--partner--block smi2adblock-right smi2adblock-right_article-page" id="smi2adblock-right"><div id="smi2adblock_77365"><a href="http://smi2.net/">Новости СМИ2</a></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-3"></div><div class="column__row column__row_article-page_right column__row_article-page_right-4"><div class="hide--partner--block" id="infox_904"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-5"><div class="column__cell column__cell_news24smi hide--partner--block"><div class="smi24__informer smi24__auto" data-smi-blockid="15031"></div></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-6"></div><div class="column__row column__row_article-page_right column__row_article-page_right-7"><div class="adfox_placeholder" id="ad300x600_t" style="display: table;"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-8"><div class="adfox_placeholder" id="dzen_widget"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-9"><div class="js-setka-news" data-bid="123" style="margin-top: 20px;"></div><style type="text/css">
-            @media (max-width: 768px) {
-                .js-setka-media[data-bid="197"] {
-                    display: block;
-                }
-            }
-         </style></div><div class="column__row column__row_article-page_right column__row_article-page_right-10"><div class="listing listing_foreign-press_right" data-component="Listing" onclick="return {
-            template: {
-                name: 'foreignPress',
-                loadPath: 'https://cdnru.rt.com/static/js/modules/foreignPress.min.js',
-                listing: {
-                    modifiersCard: 'listing__card_foreign-press'
-                },
-                card: {
-                    modifiersCover: 'card__cover_foreign-press_right',
-                }
-            },
-            singlePage: {
-               url: '/inotv/api/widgets/press.json' + '?_='+ parseInt(new Date().getTime() / 120000) /*добавляем раз в минуту новую переменую для кэша*/
-            }
-        };"></div></div><div class="column__row column__row_article-page_right column__row_article-page_right-11 column__row_adfox-bottom"><div class="js-sticky"><div class="js-sticky__content"><div class="adfox_placeholder" id="ad300x600_b" style="display: table;"></div></div></div></div></div></div></div><div class="rows__column"></div></div></div></div></div><div class="clears-mh"></div><div class="layout__footer"><div class="footer js-mediator-footer"><div class="footer__content"><div class="footer__control-width"><div class="footer__left left-role"><div class="footer__navs footer__navs_item_1"><div class="nav nav_langs"><ul class="nav__row footer__nav footer__nav_1"><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//swentr.site/" target="_blank">
+<!--Start VDZ Yandex Metrika Plugin-->
+<!-- Yandex.Metrika counter -->
+<noscript><div><img alt="" src="https://mc.yandex.ru/watch/53001343" style="position:absolute; left:-9999px;"/></div></noscript>
+<!-- /Yandex.Metrika counter --><!--START ADD EVENTS FROM CF7--><!--END ADD EVENTS FROM CF7-->
+<!--End VDZ Yandex Metrika Plugin-->
 
-                            English
 
-                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//de.rt.com/" target="_blank">
-
-                            Deutsch
-
-                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//francais.rt.com/" target="_blank">
-
-                            Français
-
-                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//arabic.rt.com/" target="_blank">
-
-                            العربية
-
-                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//actualidad.rt.com/" target="_blank">
-
-                            Español
-
-                        </a></li><li class="nav__row-item footer__nav-item"><a class="nav__link footer__nav-link link" href="//rt.rs/" target="_blank">
-
-                            Српски
-
-                        </a></li></ul></div><ul class="footer__nav footer__nav_last"><li class="footer__nav-item"><a class="footer__nav-link" href="//rtd.rt.com/" target="blank">
-                                    RTД на английском
-                                </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//doc.rt.com/" target="blank">
-                                    RTД на русском
-                                </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//ruptly.agency/" target="blank">
-                                    RUPTLY
-                                </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//ru.gw2ru.com" target="blank">
-                                    Окно в Россию
-                                </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//school.rt.com/" target="blank">
-                                    Школа RT
-                                </a></li><li class="footer__nav-item footer__nav-item_rt-shop"><a class="footer__nav-link footer__nav-link_rt-shop" href="//shop-rt.com/" onclick="ga('send', 'event', 'RT_SHOP_RU', 'CLICK_BUTTON', '/russia/news/1451703-surkov-rossiya-rasshiryatsya')" style="background-image: url('https://shop-rt.com/local/templates/rt_store/images/logo-ru.svg')" target="blank"></a></li></ul></div><div class="footer__social"><div class="socials socials_footer"><ul class="socials__row socials__row_footer"><li class="socials__item socials__item_footer"><a class="socials__link socials__link_vkontakte" href="//vk.com/rt_russian" target="_blank">
-                    RT на русском Вконтакте
-                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_xtwitter" href="//twitter.com/RT_russian" target="_blank">
-                    Twitter RT Russian
-                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_telegram" href="//ttttt.me/rt_russian" target="_blank">
-                    Канал RT на Telegram.me
-                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_rutube" href="//rutube.ru/u/rtrussian/" target="_blank">
-                    RT на русском в rutube
-                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_odnoklassniki" href="//ok.ru/rtrussian" target="_blank">
-                    RT на русском группа на Одноклассники.ru
-                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_yandex-zen" href="//dzen.ru/russian.rt.com" target="_blank">
-                    RT на русском в Дзен
-                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_rss" href="/rss" target="_blank">
-                    rss
-                </a></li><li class="socials__item socials__item_footer"><a class="socials__link socials__link_tiktok" href="//www.tiktok.com/@russian_rt" target="_blank">
-                    RT на русском в TikTok
-                </a></li></ul></div></div><input class="footer__button" id="footer__left" type="checkbox"/><label class="footer__button-switch" for="footer__left" onclick=""></label><div class="footer__navs footer__navs_item_2"><ul class="footer__nav footer__nav_2"><li class="footer__nav-item"><a class="footer__nav-link" href="/press_releases">
-                                        Пресс-релизы
-                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/about">
-                                        О канале
-                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//rt.com/rt-promo-2022-ru">
-                                        Промо RT: Избранное
-                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//doc.rt.com/programmy/">
-                                        Программы RT
-                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/about-us/contact-info/">
-                                        Контакты
-                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//zakupki.rt.com/">
-                                        Текущие закупки RT
-                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="mailto:russian@rttv.ru">
-                                        Написать в редакцию
-                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/partners">
-                                        Новости партнёров
-                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/recommendations">
-                                        Системы рекомендаций
-                                    </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="//shop-rt.com"></a></li></ul></div><div class="footer__navs footer__navs_item_3"><ul class="footer__nav footer__nav_3"><li class="footer__nav-item"><a class="footer__nav-link" href="/news">
-                                            Новости
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/world">
-                                            Мир
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/russia">
-                                            Россия
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/ussr">
-                                            Бывший СССР
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/business">
-                                            Экономика
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/sport">
-                                            Спорт
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/science">
-                                            Наука
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/nopolitics">
-                                            Без политики
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/opinion">
-                                            Мнения
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/inotv" target="_blank">
-                                            ИноТВ
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/foto">
-                                            Фото
-                                        </a></li><li class="footer__nav-item"><a class="footer__nav-link" href="/video">
-                                            Видео
-                                        </a></li></ul></div></div><div class="footer__right"><div class="footer__seach-form"><form action="/search" class="search header__search-form_js" name="search"><div class="search__wrapper search__submit-footer"><input class="search__submit" id="search__submit-footer" type="checkbox" value="Поиск"><label class="search__submit-label search_label_js-footer" for="search__submit-footer"></label><input class="search__submit-label search__submit-label_header" type="submit" value="Поиск"/><div class="search__text"><input id="search_input_field-footer" maxlength="100" name="q" type="text" value=""/></div></input></div></form></div></div></div><div class="footer__control-width"><div class="footer__age-limit">18+</div></div></div><div class="footer__copyright footer__copyright_share-article"><div class="footer__control-width"><div class="copyright"><div class="copyright__logo"><a class="" href="/">
-               RT
-            </a></div><div class="copyright__text"><p>© Автономная некоммерческая организация «ТВ-Новости», 2005—2025 гг. Все права защищены.</p><p>Сетевое издание <a class="link" href="https://rt.com">rt.com</a> зарегистрировано Роскомнадзором 14 августа 2020 г., свидетельство Эл № ФС 77-78993</p><p>Главный редактор: Симоньян М. С. Адрес редакции: 111020, Москва, Боровая улица, 3к1. Телефон: <a class="link" href="tel:+74997500075">+7 499 750-00-75</a> доб. 1200 E-mail: <a class="link" href="mailto:info@rttv.ru">info@rttv.ru</a></p><p><a class="link" href="https://russian.rt.com/privacy">Политика АНО «ТВ-Новости» в отношении обработки персональных данных</a></p></div></div></div></div><noindex><div class="footer__organizations"><div class="footer__organizations-wrapper"><p class="footer__organizations-title">Организации, признанные экстремистскими и запрещённые на территории РФ</p><div class="footer__organizations-image"><span class="footer__organizations-image__wrapper"></span></div></div></div></noindex></div></div><div class="cookies__banner js-cookies-banner"><div class="cookies__banner-wrapper"><p class="cookies__banner-text">Данный сайт использует файлы <a href="https://russian.rt.com/privacy-policy" target="_blank">cookies</a></p><a class="cookies__banner-button js-cookies-button">Подтвердить</a></div></div></div><div class="overlay"></div><!-- google analytics --><!--/ google analytics --><!--LiveInternet counter--><div style="position: fixed; left: -9999px;"></div><!--/LiveInternet--><!-- Yandex.Metrika Counter --><noscript><div><img alt="" src="https://mc.yandex.ru/watch/48853397" style="position:absolute; left:-9999px;"/></div></noscript><!-- /Yandex.Metrika counter --><!-- Yandex.Metrika counter --><noscript><div><img alt="" src="https://mc.yandex.ru/watch/27102311" style="position:absolute; left:-9999px;"/></div></noscript><!-- /Yandex.Metrika counter --><!-- Begin comScore Tag --><noscript><img alt="" src="//b.scorecardresearch.com/p?c1=2&amp;c2=17935924&amp;cv=2.0&amp;cj=1"/></noscript><!-- End comScore Tag --><!-- tns-counter.ru --><noscript><img alt="" height="1" src="http://www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_russia/" width="1"/></noscript><!--/ tns-counter.ru --><!-- mediator --><!-- /mediator --><!-- Top100 (Kraken) Counter --><noscript><img alt="Топ-100" src="//counter.rambler.ru/top100.cnt?pid=1886286"/></noscript><!-- END Top100 (Kraken) Counter --><!-- Top.Mail.Ru counter --><noscript><div><img alt="Top.Mail.Ru" src="https://top-fwz1.mail.ru/counter?id=3361851;js=na" style="position:absolute;left:-9999px;"/></div></noscript><!-- /Top.Mail.Ru counter --><!--/ tns-counter.ru --><!--/ tns-counter.ru --></body></html> 
+</body>
+</html>

@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 import time
 
 # Настройки
-BASE_URL = "https://russian.rt.com"
-START_URL = "https://russian.rt.com/news"  # Ссылка на раздел новостей
+START_URL = "https://organiclawn.ru/page"  # Ссылка на раздел новостей
+BASE_URL = "https://organiclawn.ru/"
 SAVE_DIR = "rt_articles"
 TOTAL_PAGES = 100  # Количество страниц для скачивания
 MAX_PAGES = 10  # Максимальное количество страниц для обхода (по 10 статей с каждой)
@@ -18,9 +18,12 @@ headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
 
+# Глобальная переменная для хранения уже добавленных ссылок
+added_links = set()
 
 def get_article_links(page_url):
     """Получает ссылки на статьи с указанной страницы"""
+    global added_links  # Используем глобальную переменную
     try:
         response = requests.get(page_url, headers=headers)  # Добавляем headers
         response.raise_for_status()  # Если ответ 4xx или 5xx, выбрасывается исключение
@@ -32,10 +35,11 @@ def get_article_links(page_url):
         for article in soup.find_all("a", href=True):
             href = article.get("href")
             # Ищем ссылки на статьи, начинающиеся с "/news/"
-            if "/news/" in href:
+            if "#href" not in href and "category" not in href and "%" not in href and BASE_URL in href and "page" not in href and href.count("/") == 4:
                 full_url = f"{BASE_URL}{href}" if href.startswith("/") else href
-                if full_url not in links:
+                if full_url not in added_links:  # Проверяем, есть ли ссылка уже в added_links
                     links.append(full_url)
+                    added_links.add(full_url)  # Добавляем ссылку в added_links
                 if len(links) >= TOTAL_PAGES:
                     return links
 
@@ -76,13 +80,13 @@ def get_all_article_links():
     all_links = []
     page_number = 1
 
-    while len(all_links) < TOTAL_PAGES and page_number <= MAX_PAGES:
-        page_url = f"{START_URL}?PAGEN_1={page_number}"  # Добавляем номер страницы для пагинации
-        print(f"Обрабатываю страницу {page_url}")
+    while len(all_links) < TOTAL_PAGES:
+        page_url = f"{START_URL}/{page_number}"  # Добавляем номер страницы для пагинации
+        print(f"Обрабатываю страницу {page_url}, уже получено ссылок: {len(all_links)}")
         article_links = get_article_links(page_url)
-        all_links.extend(article_links)
+        all_links.extend(article_links)  # Используем extend вместо add
         page_number += 1
-        time.sleep(2)  # Задержка между запросами
+        time.sleep(1)  # Задержка между запросами
 
     return all_links[:TOTAL_PAGES]  # Возвращаем не более TOTAL_PAGES ссылок
 
