@@ -1,110 +1,140 @@
 import os
+import json
 import re
 from collections import defaultdict
 
 
-class BooleanSearch:
-    def __init__(self, tokens_dir):
+class BooleanSearchEngine:
+    def __init__(self, tokens_dir, index_file='inverted_index.json'):
+        self.tokens_dir = tokens_dir
+        self.index_file = index_file
         self.index = defaultdict(set)
         self.documents = set()
-        self.load_tokens(tokens_dir)
 
-    def load_tokens(self, tokens_dir):
-        for filename in os.listdir(tokens_dir):
+        self.build_index()
+        self.save_index()
+
+    def build_index(self):
+        print("Построение инвертированного индекса...")
+        for filename in os.listdir(self.tokens_dir):
             if filename.endswith('.txt'):
                 doc_id = filename.split('.')[0]
                 self.documents.add(doc_id)
 
-                with open(os.path.join(tokens_dir, filename), 'r', encoding='utf-8') as file:
-                    tokens = file.read().split()
+                with open(os.path.join(self.tokens_dir, filename), 'r', encoding='utf-8') as f:
+                    tokens = f.read().split()
                     for token in tokens:
                         self.index[token].add(doc_id)
+        print(f"Индекс построен. Документов: {len(self.documents)}, Уникальных терминов: {len(self.index)}")
 
-    def parse_query(self, query):
-        query = query.lower().strip()
+    def save_index(self):
+        index_to_save = {term: list(docs) for term, docs in self.index.items()}
 
-        while True:
-            match = re.search(r'\(([^()]+)\)', query)
-            if not match:
-                break
-            subquery = match.group(1)
-            subresult = self.parse_query(subquery)
-            temp_id = f"temp_{len(self.temp_results)}"
-            self.temp_results[temp_id] = subresult
-            query = query.replace(f'({subquery})', temp_id)
-
-        tokens = re.split(r'(and|or|not|\(|\))', query)
-        tokens = [t.strip() for t in tokens if t.strip()]
-
-        i = 0
-        while i < len(tokens):
-            if tokens[i] == 'not':
-                if i + 1 >= len(tokens):
-                    raise ValueError("NOT должен иметь аргумент")
-                term = tokens[i + 1]
-                if term in self.temp_results:
-                    result = self.documents - self.temp_results[term]
-                else:
-                    result = self.documents - self.index.get(term, set())
-                temp_id = f"temp_{len(self.temp_results)}"
-                self.temp_results[temp_id] = result
-                tokens[i:i + 2] = [temp_id]
-            else:
-                i += 1
-
-        i = 1
-        while i < len(tokens):
-            if tokens[i] == 'and':
-                if i == 0 or i == len(tokens) - 1:
-                    raise ValueError("AND должен иметь аргументы с обеих сторон")
-                left = tokens[i - 1]
-                right = tokens[i + 1]
-
-                left_set = self.get_set(left)
-                right_set = self.get_set(right)
-
-                result = left_set & right_set
-                temp_id = f"temp_{len(self.temp_results)}"
-                self.temp_results[temp_id] = result
-                tokens[i - 1:i + 2] = [temp_id]
-            else:
-                i += 1
-
-        i = 1
-        while i < len(tokens):
-            if tokens[i] == 'or':
-                if i == 0 or i == len(tokens) - 1:
-                    raise ValueError("OR должен иметь аргументы с обеих сторон")
-                left = tokens[i - 1]
-                right = tokens[i + 1]
-
-                left_set = self.get_set(left)
-                right_set = self.get_set(right)
-
-                result = left_set | right_set
-                temp_id = f"temp_{len(self.temp_results)}"
-                self.temp_results[temp_id] = result
-                tokens[i - 1:i + 2] = [temp_id]
-            else:
-                i += 1
-
-        if len(tokens) != 1:
-            raise ValueError("Некорректный запрос")
-
-        return self.get_set(tokens[0])
-
-    def get_set(self, term):
-        if term.startswith('temp_'):
-            return self.temp_results.get(term, set())
-        return self.index.get(term, set())
+        with open(self.index_file, 'w', encoding='utf-8') as f:
+            json.dump({
+                'documents': list(self.documents),
+                'index': index_to_save
+            }, f, ensure_ascii=False, indent=2)
+        print(f"Индекс сохранен в {self.index_file}")
 
     def search(self, query):
         self.temp_results = {}
+
         try:
-            return self.parse_query(query)
-        except ValueError as e:
-            print(f"Ошибка в запросе: {e}")
+            query = query.lower().strip()
+            if not query:
+                return set()
+
+            result = self._parse_expression(query)
+            return result
+        except Exception as e:
+            print(f"Ошибка при обработке запроса: {e}")
             return set()
+
+    def _parse_expression(self, expression):
+        expression = expression.strip()
+        while expression.startswith('(') and expression.endswith(')'):
+            expression = expression[1:-1].strip()
+
+        tokens = self._tokenize(expression)
+        tokens = self._process_operator(tokens, 'not')
+        tokens = self._process_operator(tokens, 'and')
+        tokens = self._process_operator(tokens, 'or')
+
+        if len(tokens) != 1:
+            raise ValueError(f"Некорректное выражение: {expression}")
+
+        return self._get_docs_for_token(tokens[0])
+
+    def _tokenize(self, expression):
+        tokens = []
+        current = []
+        paren_level = 0
+
+        for char in expression:
+            if char == '(':
+                paren_level += 1
+                current.append(char)
+            elif char == ')':
+                paren_level -= 1
+                current.append(char)
+            elif char.isspace() and paren_level == 0:
+                if current:
+                    tokens.append(''.join(current))
+                    current = []
+            else:
+                current.append(char)
+
+        if current:
+            tokens.append(''.join(current))
+
+        return tokens
+
+    def _process_operator(self, tokens, operator):
+        i = 0
+        while i < len(tokens):
+            if tokens[i] == operator:
+                if operator == 'not':
+                    if i == len(tokens) - 1:
+                        raise ValueError(f"Оператор NOT требует аргумента")
+
+                    arg = tokens[i + 1]
+                    docs = self._get_docs_for_token(arg)
+                    result = self.documents - docs
+
+                    temp_id = f"temp_{len(self.temp_results)}"
+                    self.temp_results[temp_id] = result
+                    tokens[i:i + 2] = [temp_id]
+                else:
+                    if i == 0 or i == len(tokens) - 1:
+                        raise ValueError(f"Оператор {operator} требует два аргумента")
+
+                    left = tokens[i - 1]
+                    right = tokens[i + 1]
+                    left_docs = self._get_docs_for_token(left)
+                    right_docs = self._get_docs_for_token(right)
+
+                    if operator == 'and':
+                        result = left_docs & right_docs
+                    else:  # OR
+                        result = left_docs | right_docs
+
+                    temp_id = f"temp_{len(self.temp_results)}"
+                    self.temp_results[temp_id] = result
+                    tokens[i - 1:i + 2] = [temp_id]
+                    i -= 1
+            i += 1
+
+        return tokens
+
+    def _get_docs_for_token(self, token):
+        if token.startswith('temp_'):
+            return self.temp_results.get(token, set())
+
+        if '(' in token or ')' in token:
+            return self._parse_expression(token)
+
+        return self.index.get(token, set())
 
     def pretty_search(self, query):
         results = self.search(query)
@@ -116,12 +146,13 @@ class BooleanSearch:
 
 
 if __name__ == "__main__":
-    tokens_directory = "./lemmas_tokens"
+    TOKENS_DIR = "./lemmas_tokens"
+    INDEX_FILE = "inverted_index.json"
 
-    search_engine = BooleanSearch(tokens_directory)
+    search_engine = BooleanSearchEngine(TOKENS_DIR, INDEX_FILE)
 
-    print("Булев поиск по инвертированному индексу")
-    print("Поддерживаемые операторы: AND, OR, NOT (все в нижнем регистре)")
+    print("\nБулев поиск по инвертированному индексу")
+    print("Поддерживаемые операторы: AND, OR, NOT (в нижнем регистре)")
     print("Примеры запросов:")
     print("  клеопатра and цезарь")
     print("  клеопатра or цезарь")
