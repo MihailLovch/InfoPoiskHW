@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Поисковая система</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            padding: 30px;
+            color: #333;
+        }
+
+        h1 {
+            text-align: center;
+            color: #222;
+        }
+
+        form {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 30px;
+        }
+
+        input[type="text"] {
+            width: 50%;
+            padding: 10px;
+            font-size: 16px;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            margin-right: 10px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        h2 {
+            text-align: center;
+            color: #444;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        li {
+            background: white;
+            margin-bottom: 10px;
+            padding: 15px 20px;
+            border-radius: 6px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        .score {
+            float: right;
+            color: #888;
+        }
+
+        .no-results {
+            text-align: center;
+            color: #777;
+            font-style: italic;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Поисковая система по статьям</h1>
+
+    <form method="post">
+        <input type="text" name="query" value="{{ query }}" placeholder="Введите запрос..." required>
+        <button type="submit">Найти</button>
+    </form>
+
+    {% if results %}
+        <h2>Топ 10 результатов</h2>
+        <ul>
+        {% for doc_id, score in results %}
+            <li>
+                <a href="{{ url_base }}/{{ doc_id }}" target="_blank">{{ url_base }}/{{ doc_id }}</a>
+                <span class="score">релевантность: {{ "%.4f"|format(score) }}</span>
+            </li>
+        {% endfor %}
+        </ul>
+    {% elif query %}
+        <div class="no-results">Ничего не найдено по запросу "{{ query }}"</div>
+    {% endif %}
+</body>
+</html>
